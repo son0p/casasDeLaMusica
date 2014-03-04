@@ -1,7 +1,7 @@
 # Casas de la Musica 
 ---
 - [Comité Filosófico](comiteFilosofia.md)
-- [Comité Pedagógico](comitePedagogogia.md)
+- [Comité Pedagógico](comitePedagogia.md)
 
 ---
 
