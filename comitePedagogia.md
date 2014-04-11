@@ -1,3 +1,128 @@
+201403200954
+
+la batería puede hacer mucho ruido, no solo ruido acústico sino que atra mucho a los niños en el descreste
+tita quisiera volver a lo acústico
+la casa de robledo espacios acústicos
+!hablemos de sonoridades más que géneros
+
+
+Acústica
+Electrónica
+Electrica
+Urbana
+
+Ti: foro nuevas poéticas
+lanzamiento videos rotando ensamble
+folleto
+lanzaríamos la página
+se podrían inscribir
+ojo en el foro debemos tener representación de letristas de todos los géneros.!
+poéticas de cada género.
+
+Mariadel rosario: ojo con construcción de públicos, gestor.
+
+tita: la casa :: secretaria, la tienda, contrtistas.
+con la formación de gestores, tema del año entrante
+que la formación humana se viva, no necesariamente se discurse
+el ensamble demuestra que convivo con el otro y con el ruido
+
+mariadlrosario
+
+como se contrata la gente de un parque biblioteca
+!! estudiar como se contrata
+
+Fer: padrinazgo de un internacional, apropiación de más largo aliento.
+carliños brown?
+
+que tal ofrecer : clase maestra, taller, proceso, padrinazgo
+
+Daniel: el maestro pregunta a los estudiantes.
+DaveWeckl enseño como entrenaba tremendo taller!! enseño paso a paso así esss!!
+
+Mariadelrosario: pradrinazgo también de proceos social, que ojalá tenga experiencia con comunidad
+en esta ciudad hay dos vertientes de comprensión de lo publico cultural artistico.
+para unos es libertad, para otros es un vehiculo discusión importante!
+pequeños politiqueritos comunitarios
+
+
+preparar el terreno para los maestros, que estudiemos quien viene, y nos preparemos para la llegada del perrsonaje
+
+Octavio
+lo vemos como un festival proceso
+debe dialogar con las casas, se trabaje en los mismos segmentos, hla ciudad tiene claras vocaciones, ej la música cla+sica con mucha demanda 4 orquéstas, eafit, sinfoica redm filarmónica.
+realimentarse con figuras que nos puedan servvir a todos.
+tengo problemas contractuales pues no tengo presupuesto, salvo escena intermedia, santaolalla que haga un concierto con la red de bandas, también queremos procesos, en el segmento de las músicas actuales se ha invertido mucho dinero en los grupos .. queremos que se desarrollen, esas bandas, asociarnos con la intolerancia Records, trabajar en desarrollo de artistas, con el lenguaje de la indpendncia, no sony BMg etc.
+Intolerancia tiene a Carla Morrison
+Womex puede firmar una curaduría de una tarima
+Glastonburry quiere trabajar en la parte de electŕónica, martin erbon ya había hablado con mucha gente.
+popcorn en alemania
+cabo verde áfrica
+
+ti: que puede pasar con las clases maestras en octubre.. sugerirmos cosas para formación.
+poner algo de la canción infantil en el festival.
+imaginarnos el ensamble a 100 años
+dos cosas un montaje con las casas y otra es el reto d componer entre todos.
+la reversa aceitada .. como se trabaja en grupo
+contar algo con dos  o tres frases
+como se pone en escena contar algo
+
+camilo hay herramienta estructural
+describir la narración como un cambio
+de estado 1 a estado 2
+"cuando despertó, el dinosaurio aun estaba ahi"
+un cambio cuando se vuelve lenguaje ya es una narracion..
+relación del QUE y el COMO
+ocurren cosas por fuera que entran a esas casa y salen converidas en una canción o música.
+
+Cesar casas como plantas de reciclajes de cosas del exterior.
+
+
+
+mrrosario: apoyos alcaldia : prometeo festival de poesía, 550 millones, filarmonica 1200 millones EAFIT se le pagan conciertos, festival de coros jorge hernan arango, prolirica opera y sartuzuela, fesiival del porro, festival del porro, boston, fesitval de san pacho, centro del a diversidad sexual, cenntro afro, festival inter, tango, feria de las flores, estímulos becas de creación, composición, artes integradas, investigación, crear una de nuevas poéticas, aparte de becas se van a dar premios
+¿Cömo abordamos contenidos y eventos en los equipamientos..
+cremos que es una agenda estructurada rítmica, con rimos claros queel centro de secretaría es elcentro, todo esto debe alimentar la agenda, la agenda misma va a concurso publico,
+tradicionalmente 4 posibidades de empleo para gestor cultura la de antioqua eafit, 
+
+cesar: quizá nuestras experiencias, de lo que ya sabemos de ensamble inclusión, se debe formar quizpa el estudiante no lo logra de una.
+
+fer: crear hechos donde esos valores se vean plasmados
+tengo ideas formales de estructuración para que todas las cassas dialoguen.
+sintro o no sincro
+imaginaba grandes nucelos
+ejemplo 100 canecas
+
+Cesar: que la gente se pueda acercar y recorrer los instrumentos y ver los instrumentos
+2. momentos colaborativos con el publico
+3. poner la idea reisiliencia
+4. tratando de ponerse de acuerdo a lograr ponerse de acuerdo.
+
+hay momentos de cada uno solista, hay un climax a los 3 cuartos,
+labor de enamoramiento, cada uno es un ejercicio de enganchamiento de jovenes a las casas.
+
+
+camilo: recrear lo que sucede en la casa, gente llega alli se hace música, llegan sonoridaes, sufren proceso de transformación en el espacio.
+grabar palabras e incorporarlas
+
+Exteriro interior regreso al exterior
+
+Dan: cansancio humano, frescura de información, puntos nuevos,
+
+Octavio: irme silvando una tonada!
+
+OJO conocer mas lo de alcaldia y de la huistoria
+
+
+
+ff: es posible hacer documentación de lo que es hacer un festival?
+se puede componer con la ciudad
+
+Fer: video que quiere hacer?  otro minuto toca.
+
+estructura taller: heredero, clase maestra, taller, padrinazgo.
+
+se fue apoderando la guitarra eléctrica y desplazó el oboe
+fer:
+
 2014 03 19 0900
 Siempre abierto a otras posibilidades, siempr ecuestionar, referentes, realidades con lo snuestro
 estamos terminando primera etapa de ajustes, segunda etapa equuipos conformados trabajan solos.

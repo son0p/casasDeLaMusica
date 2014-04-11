@@ -1,4 +1,85 @@
 
+# 201403241430
+
+presentación de casasdela música
+curriculos de fer
+como entra la Red?
+como sería el primer ensamble sonoro
+
+misión
+empezar a unirnos y ver que hace falta vientos cerdas para entrar a a la red
+tranversal las nuevas poéticas
+mañana curriculo
+jueves énfasis
+
+hoy encuadre logos, nueva imagen
+fer con macrocurriculo
+
+sabado 10am de 6 a 12 años con pedro experimentacion sonora
+chevre del preensamble del medllin vive la musica
+
+acompañar el viernes a ver canecas venir al ensamble coral
+el jueves discusion de como se inicia enseñanza de vientos
+
+jose tobon y los 4 de la casa
+
+como a nivel creativo conpoquitas palabras que queremos decir?
+primer movimiento medllínvive la música
+uno de los capitulso son herramientas de cuerpo adicional a la voz golpes de cuerpo,
+
+tenerla reversa aceitada, no apasionarnos conanda
+el ej del primer ensamble medllin vive la musicacolaborativo
+
+derehco a la creación
+
+el ministerio aprender haciendo
+aprender creando
+
+guapito quiere hacer una orquesta de baile
+realbook solo comlombiano
+
+# invantario ensamble
+recursos
+:coro :: coro 4 voces con capacidad de improv, leen partitura 12 personas (3 por voz)
+:percu :: 2 de sonbata, colombiano raiz, percusionista sinfónico amazon, esta montando canecas, 4 bateristas muy buenos. (esteban, alejo pinilla, mauro estrada, nico guevara)
+
+:textos camilo
+:electrónico
+:vientos jose, guapito y flauta, guitarrista tiplero, flauta dulce, gaitas
+: peticiones a pedido de la red
+: niños hacia donde van estas tendencias.
+: piedritas cayendo incluir la naturaleza en el espacio urbano, el entorno pueda hacer parte de la compocición
+
+
+
+cesar: a vece encontrar a la gente en la improvisación es brutal pero
+
+que bueno que la obra tenga todos los tipos de composicón, improvisación
+
+tita: que bueno recobrar el juego
+quisimos huirle al discurso y casi caemos
+
+FEr: el proceso creativo es doloroso como unparto
+lo nuevo generamiedo, enfrentarse a lo desconocido, el enfoque que se le esta dando es particular, el encientro con lo sdesconocido, es un hecho de valentía, eso asusta, casi todos los sistemas educativos reusanlo echo, que es un acto creativo ? estamos lidiando conesa dificultad
+
+- (ref)los diez mandamientos del capo  referente
+
+nos aferramos a la cultura occidental, nos asusta enfrentarnos a otras grafías.
+
+cada uno puede hacer el score, primer ejercici o es una síntesis gráfica, un inventario del material sonoro disponible,
+la sintesis gráfica, es solo un mapa
+
+celulas pequeñas se abren verticalmente y luego horizontalmente,, empieza con una celula, le salen patas
+partituras abiertas .. hay momentos con un
+
+buscar los roles, uno bueno para conectar, otro para cargar ejemplos
+
+Tita: en el coro hay buen ejercicio de improvisación en jazz
+
+
+
+
+
 RELATORÍA 1
 Jornada 24 de febrero (11 a.m. – 7 p.m. / Cantoalegre) 
 Asistentes: Federico López, César López, Tita Maya, Fer Franco
