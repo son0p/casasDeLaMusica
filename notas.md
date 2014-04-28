@@ -1,3 +1,22 @@
+# Notas reu de producción
+Montaje martes
+paso a paso del pre
+las dos tarimas de arriba a 40cms
+las de abajo 60 Cms
+
+9:30 4 minutos percusion llamads
+
+habla el alcalde
+
+luego 10mins del ensamble
+
+luego despedida.
+
+luego pantalla, video de lanzamiento, prsentación completa de medellín vive la música.
+
+
+
+
 # preguntas para fer
 
 solo para  guitarras electricas planeado?compuesto ? o imrpovisación orquestal con gestos?
