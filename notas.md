@@ -1,4 +1,24 @@
+# preguntas para fer
 
+solo para  guitarras electricas planeado?compuesto ? o imrpovisación orquestal con gestos?
+tienes en menten de dode conseguir los guitarristas?
+
+
+
+que dias van a ser los ensayos generales?   en que horarios?
+la estructura es improv.. solos improv?
+las destresas para improv son beat?  tonalidad?
+
+En ensamble de percusión va a tener también un solo?  y en las transiciones entre solo y solo la percusión tiene un ritmo o es aleatorio? o silencio?
+
+cada sección (nueva tradicion, coral, populares, electrónica) van a tener un solo o más de un solo?
+
+
+
+
+## ideas
+poner el tiempo disponible .. llenar el tiempo en administración
+cada espacio llevarlos
 
 
 alvaro
