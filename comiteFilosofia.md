@@ -1,5 +1,8 @@
 
-# 201403241430
+### 201405290900
+En el agite de los días de lanzamiento algunas piezas de comunicación requieren reprocesos al parecer por estar distantes de los valores planteados a nivel filosófico y pedagógico.
+
+### 201403241430
 
 presentación de casasdela música
 curriculos de fer

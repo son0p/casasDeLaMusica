@@ -1,3 +1,10 @@
+# Referentes pedagogía
+Tomados de La conversación de noam chomski con ...
+
+Dewey progresive school
+Descartes te da las herramientas para dudar
+Estudiantes y profesores deben ser enseñados a cuestionar y retar
+
 # Notas reu de producción
 Montaje martes
 paso a paso del pre
