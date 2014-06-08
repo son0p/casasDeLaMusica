@@ -1,31 +1,61 @@
-# Quien soy y qué hago acá
-
-# Tres valores: Pedagogía, expandir alcance, experimentación
+# ¿Quién soy y qué hago acá?
 
 # MVM
-- Desición Política que usa recursos.
-- Entrenamiento en convivencia... infraestructura y métodologías.
+- Desición de uso gobierno Claudia García, cluster.
+|| Formación || Investigación || Produción || Circulación ||  
 
-# Festival MVM
-- Procesos
+# Motivantes
+- Gran esfuerzo de la Red de Escuelas 16 años
+/red/ -alcance
+/red/ -formación estructurada
+/red/ -instrumentación clásica
 
-# Red
-- Venezuela
-- Intrumentación clásica
-
-# Casas de Música
-- Instrumetación urbana y tradicional.
-- 40 años a la ciudad, construir pedagogía.
-- Vocacional
-- Musicalidad
-- Hacer, Crear, Ensamblar, Documentar.
-- Varias formas de acercarse.
-- 4E - 32N tejidos.
-- Infraestructura especializada.
-
-# Casa de Experimentación
-- Experimentación:  Observatorio para ? decidir, empujar límites, automatizar.
+- Educación vocacional
+/colectivos/ -cercanos, de la comunidad
+/colectivos/ -entienden los problemas/necesidades
 
 
+# lo que se ve 
+- nombres (3 casas de música, 1 casa de experimentos, 32 nodos, festival)
+- publicidad
+- edificios 
+
+# Las tripas
+
+-- ¿Qué Expandir? 
+-- ¿Cómo aprender?
+-- ¿Para qué experimentar?
+
+# -------- 
+## ¿Qué Expandir? 
++ Formación a formadores 
++ Instrumentación -tradición -vanguardia
++ Infraestructura especializada
+
+##  ¿Cómo aprender?
+/Maneras de aprender => pedagogías -casas -festival -experimentación
+/casas/ -formacion de formadores
+/casas/ -hacer, crear, ensamblar,  documentar 
+/casas/ -40años *Musicalidad* 
+/festival/ -relaciones con talentos *dia *semanas *meses (Festival)
+/festival/ -seminario periodismo musical, campus musical 6-13 octubre
+/experimentos/ -aprendizaje guiado por curiosidad (Casa de experimentos)
+/experimentos/ -ciclos de tres meses
+
+## ¿Para qué experimentar?
++ Aprender motivados por la curiosidad
++ Observar
++ Automatizar
++ Empujar límites -código
++ Documentar 
+
+
+#----------------------------------
+
+
+# ¿Porqué?
+- Entrenamiento en vivir con otros
+- Logros de la Red de Escuelas de Música y  __colectivos__
+- Necesitamos medir y experimentar
 
  

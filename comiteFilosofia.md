@@ -1,3 +1,29 @@
+# Macro
+Filosofía, política pública, todas las casas, aspectos orientación
+-Gestión socialización
+- Organización
+
+# Mezo
+- Define fronteras entre casas
+
+#Beneficiario
+Comunidad
+
+# Método
+Hago .. me sonó algo .. ¿qué hago con eso? (crear), dejo inttrucciones para que otro  haga lo que hice (documentación)
+- Valor al proceso y la experiencia vivida
+- se inicia con una forma se pega con otras para una estructura y eso genera una producción
+
+
+
+# comunicación
+## externa
+
+## interna
+
+
+
+
 
 ### 201405290900
 En el agite de los días de lanzamiento algunas piezas de comunicación requieren reprocesos al parecer por estar distantes de los valores planteados a nivel filosófico y pedagógico.
