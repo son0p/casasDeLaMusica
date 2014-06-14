@@ -7,6 +7,63 @@ continue  finally   is        return
 def       for       lambda    try
 
 #Notas
+## Relación USM 
+
+
+Folosofía :: preocuparse pero por el consumo!! consumir menos
+
+
+esta tarea que nos puso la vida es única y nos la vamos a jugar
+
+
+Necesitamos comunicar esos otro elementos, 
+
+
+ue el producto que uno hace le llegue al indicado
+Capacitación--formación de formadores
+Que talleres se pueden hacer dentro de la oferta de los talleres de profesores.
+Preproducción musical orientado a el vivo
+Para responder la pregunta ¿Qué hacer con la música?
+Que se va a trabajar en la preproducción
+
+Direccionamiento profesional
+¿Qué intensidad?
+¿Cuanto dura el ciclo?
+mapeo Junio-julio
+iniciar agosto
+
+Nombre Funky
+
+12 temas para talleres/clínicas
+
+¿Dónde están los profesores de música de los colegio?
+los formadores se debe comprometer a circular el conocimiento
+
+
+El objetivo es terminar en una metodología 
+
+- Desarrollo de concepto
+- escoger el repertorio o crearlo (idea)
+- instrumentación/sonorisar
+- montaje musical
+- selección de formato narrativa (concierto, grabación)
+- realización (envivo?, estudio?)
+- circulación (negociación, legal, aquisuenamedellin, prepago)
+
+USM:
+- ayuda a gestionar los grupos y detectar mercados para candidatos a ciclo
+- músicos taller
+- conexión con formadores de colegios
+
+inquietudes del gremio
+.-qu pasa con infraestructura a corto y mediano plazo.. porque no se usan la infraestructura
+
+
+
+
+# Creación de públicos
+Staff Picks
+
 
 
 # Filosofia 
