@@ -7,7 +7,51 @@ continue  finally   is        return
 def       for       lambda    try
 
 #Notas
+# Cantoalegre
+convenio asociativo 20% del proyecto  
+## Relacion Hard Rock taller
+
+Nora, Marisol.
+
+se van a volver institución educativa certificada 
+8mil niños de matrícula pública en laureles
+
+Fer. política de ciudad, aprertura a músicas populares, aprender haciendo, aprender creando, un ciudadano pueda formarse en valores y tener espacios donde el individuo se pueda expresar creativamente.
+Desarrollo social.
+Formatos!! diferentes al formato sinfónico, 
+Buscar la complementariedad
+
+UVAS: llenar contenidos, agrupar contenidos, compartir agenda, las UVAS las adjudican, ej fundación EPM, Comfama, Comfenalco.
+
+Casas también se adjudicarían
+
+Conocer el proyecto y unirnos al proyecto
+Elemento diferenciador trabajo muy técnico musical
+podrían ser candidatos a articularse al proyecto
+apuntamos a la parte creativa, personas integrales, programas de investigación, 
+5 admin
+14 docentes
+alumnos 150
+edad juvenil
+covertura laureles
+iniciacion, buscan reforzar, 
+con la certificación tratan de profesionalizar
+buscan certificar.
+
+Conectores:
+- participaciones en talleres de formador de formadores :Nosotros vamos a traer a Eugene, traaer a Josh de orff
+
+conectores con laso
+
+formador de formadores, formación pedagógica.
+- nventario de recursos artisticos
+- taller herramientas pedagógicas
+- formación formadores (recibir necesidades)
+- acceso a plataformas básicas de software
+- compartir comunicaciones
+
 ## Relación USM 
+
 
 
 Folosofía :: preocuparse pero por el consumo!! consumir menos

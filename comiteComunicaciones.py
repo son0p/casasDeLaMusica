@@ -1,3 +1,10 @@
+# martes 17
+proyecto tiburón?
+mailchuimp talleres guayabal
+memorias reu con LASO para nodos
+ pulir presentación de talleres.
+
+
 # que hacer en ausencias_?
 
 # correos? 
