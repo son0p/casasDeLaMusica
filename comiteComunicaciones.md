@@ -1,3 +1,14 @@
+# Valores
+Antes de hacer un post puedes mirar estas preguntas
+- ¿Es educativo? ¿Aprendo algo ?
+- ¿Es un dato curioso sobre nosotros o sobre la música o sobre la formación de ciudadanía?
+- ¿Rompe un mito?
+- ¿Es provocador? o sea invita a responder
+- ¿Es autopromoción? cuidar la cantidad de publicaciones de este tipo, uno diario
+
+
+
+
 # martes 24
 - Mandar mailchimp a gente en nodo guayabal con info de las charlas.
 - Preparar algo para comunicar del proyecto tiburón
