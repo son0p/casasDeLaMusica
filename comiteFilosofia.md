@@ -62,6 +62,7 @@ Asisten: Tita Maya, Luis Fernando Franco, Camilo Suarez, Daniel Crow, Federico L
 * En el libro de didacticas curriculo, casas estructura de casas, principios filosóficos, 9 pilares de fer, Areas(ritmo percuitvo , ritmo corporal, ), los valores constututivos de la música, ritmo altura, etc.
 * Escribir el capítulo del libro ritmo, el ritmo en muchos aspectos y se junta con la vida, en un sentido más amplio es la manipulación de la duración, 
 * Escribir captitulo de Transientes.
+
 #### Notas sobre el ritmo:
 Hay repetición se crean patrones, vida, guin, poesia, combinacion constantes y variables, hay períodos, repeticiones, son motores, se crean sincronias, del ritmo se deriva el tiempo, el compas, romper las secuencias, el error, lo magico.
 * Daniel si no hay movimiento no hay ritmo, la repetición de elemento. Del repetir y no repetir surge la  duración.
