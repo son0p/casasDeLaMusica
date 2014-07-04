@@ -1,3 +1,215 @@
+# Bitácora del comite de filosofía para Casas de Música
+
+Nota: esta bitácora alimenta el documento filosofíaCasasDeMusica.md
+
+## Semana Agosto 30 a Julio 4
+
+Asisten: Tita Maya, Luis Fernando Franco, Camilo Suarez, Daniel Crow, Federico López
+
+### Definiciones que usaremos en Casas de Música
+- def Currículo. Método. Aprender haciendo y aprender creando. Diferenciar los cómo y los qué.
+
+### Acerca de herramientas que consideramos necesarias
+- exec Inventario de recursos y mapa funcional de la música en la ciudad. 
+
+### Sobre entregables del Comité de Filosofía
+- exec escribir el capítulo del libro ritmo, el ritmo en muchos aspectos y se junta con la vida, en un sentido más amplio es la manipulación de la duración, 
+
+- def En el libro de didacticas curriculo, casas estructura de casas, principios filosóficos, 9 pilares de fer, Areas(ritmo pertucitvo , ritmo corporal, ), los valores constututivos de la música, ritmo altura, etc.
+
+### Sobre relaciónes con agentes externos
+- import cesar se conecta con lucas jaramillo para coordinar los estímulos.
+- import Comuna cinco. Proceso didáctico de laboratorio.
+- not Casa de las estrategias. Casa morada. Posible publicación.
+- import  Proyecto de producción. Inventario de arte joven y popular de Medellín. casa de las estrategias
+- import nodo explora 
+
+### Sobre Operatividad Casas de Música
+- def primera clase .. nos presentamos, activación y ensamble, semana de tanteo
+
+
+### Acerca de asuntos que debemos hacer como comité
+- exec Revisión de los pilares del proyecto general. Propuesta de recolección de información.
+- exec Aportes a los principios. Ampliación del principio hermenéuntico: parte y todo.Relevancia y pertinencia.
+- exec Desarrollo de la metáfora de la casa. Hospitalidad de la casa. Dar acogida. Apertura de ventanas y puertas. Redes de conexión (agua, luz, etc.)
+- exec camilo extiende desde la hermeneutica los principios
+- in Tarea: revisar el programa de Colombia creativa.
+
+
+
+#Ritmo:
+Hay repetición se crean patrones, vida, guin, poesia, combinacion constantes y variables, hay períodos, repeticiones, son motores, se crean sincronias, del ritmo se deriva el tiempo, el compas, romper las secuencias, el error, lo magico 
+Daniel si no hay movimiento no hay ritmo, la repetición de elemento
+del repetir y no repetir, duración.
+
+# Ritmo
+
+exec!  'ritmo desde el tiempo y la lógica/ secuencias'
+dani y fede lo def técnico Daniel: motores rítmicos y patrones.
+tita y cesar la def correspondencia  la vida lo hippie
+fer lo def creativo compositivo
+fer tita def pedagógico
+camilo  def lenguaje sintactico, 
+try  texto octavio paz del ritmo 
+
+# interventoria
+as se explica la división de presupuesto para los grupos sociales y políticos de la ciudad.
+def Mable herrera interventoria todo secretaría de educación y formación
+def Jorge Mendoza Músico asesor red de escuela de música.Articula rcon consejo de música y red de escuelas de música
+def Música electronicas programación, sonido, ruido
+
+exec mapear los músicos y entidades
+exec usar las experiencias de mapeo de otras entidades
+import ¿lectura que es lo que se ha encontrado en los sectores?
+import ¿como son lo procesos que tiene la ciudad?
+
+def fer es formación desde la música .. no es formación para la música.
+
+import ¿cómo recibir la crítica negativa?
+def Crítica negativa nos ayuda a fortalecer la ruta, es un bien preciado
+
+
+while mabel: no se sabe muy bien que es medellin vive la música estrategias comunicacionales, casas de música separado de medellín vive la música, aprender a salirse, y meterse en el objeto del contrato
+do=marcela  mandar info a carlos barrios
+
+
+exec! cesar sugiere crear una herramienta para sanear las quejas 
+
+def claridad en comun
+
+try a=John   un buen escucha puede ayudarnos a aceptar la cr+itica negativa.
+
+def la ciudad atiende prácticas de música popular.
+def desde estas prácticas puede venir una lectura para proponer cosas nuevas desde lo pedagógico, la política del "aprender haciendo" cambió al "aprender creando" la creación como derecho fundamental.
+def las mismas herramientas aprendidas para la música aplicadas a la vida
+
+import conectorores -- LASO USM Casas de la cultura
+do=Marce Resumen de conexiones con las instituciones y a que conexiones se han logrado
+exec Invetario recursos musicales de la ciudad
+   directorio
+   mapa funcional
+
+exec! yo
+# Transientes
+try introducción al análisis de vibraciones
+def Pongamanos a hacer música no hablemos tanta $%&&#
+def La zona de tolerancia la define ud. cuando estudiar, cuando divertirse, y cuando estudiar, si su diversion molesta a alguien.
+def Cocinar como ejemplo de trabajo en grupo, hacer un sancocho, quien lidera el sancocho
+in camilo: como construir una estrategia de fidelización
+def Guardian del tiempo guardian de la distracción
+exec cambiar nombre casa de experimentos
+exec juridicamente hacer casas de experimentos
+exec el libro del mapa funcional existe en el SENA
+as reunion comuna 13 no son representados por lideres visibles.
+def documentación y seguimiento (tomado de lista, fidelización, llamado a lista)
+def Casas de música se acerca a educación, jornadas complementarias y la red.disminuir el numero de gente antendida. hay que formalizar esa separación
+as ellos han robado niños a la guerra, han estado donde el estado no ha estado en educación, que existan esas escuelas, pero que no se quede ahi, los que quieran aumentar su nivel
+as Medellin vive la musica saca de casas de musica el asunto político con los grupos existentes.
+def como es el paso del aprender haciendo al aprender creando, la traducción de los aprendizaje a la vida misma, 
+
+
+
+#libroFilosofia 
+from podría parecerse a una constitución de un pais 
+raise una filosofía tiene sentido cuando rebota, el feedback
+in 10 consejos para un compositor de jinistera o algo asi
+if el libro de filosofía es como manifiesto?
+if es un libro que deja la manera de ver de un grupo de personas la idea de educación a nivel de ciudad como orff.
+if se puede usar la metáfora de la casa, como los planos, la arquitectura.
+if se hace el documento con tres traducciones, usuario de ciudad proyectos multidiciplinarios, usuario académico música, usuario de barrio, 
+if hay unos principios y se profundiza en capitulos
+if no nos interesa un libro academico, nos intersan principios para conectar institucionalmente, y a la gente del común.
+break tita: diferencia los como y los que, unos principios filosóficos estilo steiner, pero hay condiciones espeficicas en la practica, no es 2+3 = 5  sino 5 = 2+3  primero el total que las partes.
+def no tener contradicciones entre principios, 
+def trilogia del pensar sentir hacer
+def no se dice la regla, se dice la consigna
+def esos principios son los intangibles, debe llegar al nivel de el perfil de la señora de la tienda, como es la estética., cuantos salones, perfil profesores, como se hacen equipos de trabajo
+
+
+def Mas que de casas vamos a hablar de programas, programas transversales
+  percusión callejera
+
+import Relación con casas de las estrategias
+
+import Referente el proceso de comuna 5, ejercicio de aprender a perder, reflexión de aprender a perder, hacern pruebas de trabajo en equipo donde aprenden a perder.  Jhonn, daniel alvarez(de secretos)
+ivan,No sabían hacer un sancocho, pasaron por lectura de la nariz, a que huele, e ir sacando la receta.!
+
+as Tita: la educación perdió el hacer, holmer escribio my bien que es tejiendo, cocinando, imposibilidad de hacer y conquistados por el discurso.
+
+class AcuerdoMental Daniel: en salgar todos quedaron en acuerdo mental que movilizó de unas piedras.
+as Tita. la comuna 5 pidió un ensamble. son 25 personas, el sistema de educación pbulicco tiene demasiados vacíos. se aprenden cosas primero lo otro se aprende después.muchas horas de arte
+
+class sentarseAlLadoJohn : romper la barrera de yo soy el que enseño, no enseñar con hostigamiento, hay que hacer acompañamiento, sentarse al lado, "venga hagamoslo"  
+
+class eliminaNoSoyCapaz se elimina la palabra "no soy capáz"
+
+as Dani: veo en la cultura de uds. la capacidad que alguien tiene una idea y puede sacarlo adelante, en mi cultura era un veto.
+as Tita: reconocemos que ellos tienen buen trabajo en lo social, lo valoramos, abrimos el espacio de casas si lo necesitan.
+def tengo en mi corazón una clase media atropellada, que esta descuidada.
+
+Temas para esta semana,
+--libro de lukas que proceso de formación puede detonar? (investigación, podría hacer parte del área)
+-- proceso de producción
+-- atender al jorge mendoza (¿porque ukelele?, ¿cual es la diferencia entre la iniciación de uds. con la iniciación de la red?, ¿diferencia de la metodología, de la red y con otras de la ciudad?, ¿diferencias sonoras con respecto a la red?)
+-- trabajo de curriculo (libro eugene)
+-- retomar lo de los libros (¿vá libro filosófico?)
+-- como iniciamos la semana entrante
+-- balance
+
+in de cuanta gente los grupos?
+def milena:la alcaldía quiere hacerle bulla al arranque, se hace un ensamble con los chicos que llegan esta semana, hhicieron grupos que si eran muchos, si eran menos o si eran más chiquitos
+
+se van a hacer dos eventos grandes, nuevas poéticas,
+¿Qué tenemos pensado de formación de formadores para el resto del año?
+  orf
+  eugene
+  nuevas poéticas
+  quien más viene?
+  genio de marchas
+  Alex McLean relación largo aliento
+  Batucada por lo intersante a nivel urbano
+  buscar perfiles que se presten a padrinazsgos
+
+Agregar talleres por parte de los formadores, y analizar que estan necesitando tanto en intención como en hechos.
+USM :: que quieren los profesores??
+un deber moral con clase media en educadores de música
+Fer: inventario recursos musicales de la ciudad LABO, apuntando a directorio musical de medellín #brolin #usm
+aclarar los líneamientos de casas de música  para recibir las propuesta de alcaldia etc.
+
+Lucas: entrevistador, invstigo de reclutamiento de menores, aprendió a construir relaciones de confianza, lo lleva a otros temas reconstruir historias, iluminar lo que es trivial, monto un sistema de información de la violencia de la ciudad, software, mapeo georeferenciación, programas con medicina legal mujeres, comienzos delincuenciales ! , protección a testigos, trabajar con fuerza joven, programa de victimas, reconstruir estas historias, encontrarle un filon distinto a las hstorias, hicimos 100 entrevisa a jovenes de grupos violentos, proyecto con naciones unidas Habitat, montaron el inventario de arte joven y popular de medellin, parcharte mesa de trabajo de arte, escuelas de arte (tendencias()?) pasaron a morada con la idea de tener un medio,
+casas de  las estrategias lo importante es la investigación, se han ido abriendo a relaciones a los colegios, secretaría de educación, línea pedagógica (metodología) en investigación, quizimos llevar talento a jornadas complementarias.
+las publicaciones quizá obedecen a hacer visible los papers o investigaciones para naciones unidas.
+vaso comunicante entre textos academicos de recomendación con libros para todos.
+
+dejar que la evidencia o las fuentes, manden
+
+a un pelao le hace falta la historia de su enamoramiento de su manera de vivir en la musica (no "de" la música), no hablarles de los grandes éxitos de los artistas
+tenemos un equipo de documentacion(escribe y hace entrevistas), y otro equipo matemático (base de datos, indicadores)
+
+el libro quiere estar mirando a travez de unos seis festivales, parches y encontrar nodos, y sacar hipótesis
+queremos tener una edición virtual (libre), demenuzar o descuartizar el libro para que se use en Universo centro, apartes etc. y hacer una beca para los 100 artistas del libro, caja postales de la otra medellín
+
+a la ciudad le falta otra y una mesa de música a la ciudad
+en trabajar en red se necesitan bautizar procesos para poder construir confiaza, 
+
+Tita: pensar nosotros ayudarle a la alcaldía de como asignar los recursos a los parches, plantear los estímulos
+
+lucas: no hay incentivos para que conversen entre ellos!  parches que apoya la alcaldía!! uf se sale de las manos si es a dedo, debe existir unos indicadores generales.
+concurso de jurados, que los musicos eligan a sus jurados
+
+Fer: hablo de 9 línes ? cuales son?   investigación practica, investigación que nos sirva para tomar desiciones ya, o hacer algo ya
+HAcer mapa funcional ademas del otro mapa, la cadenaproductiva
+a los investigadores infromales se les llamó Sabedores
+justificar que tiene que ver el libro con casas de música
+
+Tita: diseño de estructura al invetario de recursos y mapa funcional
+articular esas investigaciones, questiona la entrada este año al ciclo de producción, becas el año entrante asumen la financiación, podemos ayudar en el diseño de esas becas
+
+lucas: la USM puede representar a los músicos profesionales o que quieren profesianizarse, Casa de las estrategias es más mapeo y tiene más peso en grupos emergentes.
+
+Tita: los serenateros, cabida a todos
+
+
 # Macro
 Filosofía, política pública, todas las casas, aspectos orientación
 -Gestión socialización
