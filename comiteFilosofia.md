@@ -2,104 +2,87 @@
 
 Nota: esta bitácora alimenta el documento filosofíaCasasDeMusica.md
 
-## Semana Agosto 30 a Julio 4
+___Semana Agosto 30 a Julio 4___
 
 Asisten: Tita Maya, Luis Fernando Franco, Camilo Suarez, Daniel Crow, Federico López
 
-### Definiciones que usaremos en Casas de Música
-- def Currículo. Método. Aprender haciendo y aprender creando. Diferenciar los cómo y los qué.
+---
+---
+
+### Definiciones o valores, que usaremos en Casas de Música
+* Aprender haciendo y aprender creando. Diferenciar los cómo y los qué.
+* La creacion como derecho fundamental.
+* Cambiar nombre de Laboratorio a "Casa de experimentos"
+* Es formación desde la música .. no es formación para la música.
+* Las mismas herramientas aprendidas para la música aplicadas a la vida
+* Apreciamos la crítica negativa y buscamos maneras de debatir e integrar lo que surga de ella
+* Consideramos que la critica negativa nos ayuda a fortalecer nuestra  ruta, es un bien preciado
+* Con Casas de la Musica  la ciudad atiende prácticas de música popular.
+* Pongamanos a hacer música no hablemos tanta $%&&#
 
 ### Acerca de herramientas que consideramos necesarias
-- exec Inventario de recursos y mapa funcional de la música en la ciudad. 
+- Ejecutar: Inventario de recursos y mapa funcional de la música en la ciudad. 
 
-### Sobre entregables del Comité de Filosofía
-- exec escribir el capítulo del libro ritmo, el ritmo en muchos aspectos y se junta con la vida, en un sentido más amplio es la manipulación de la duración, 
-
-- def En el libro de didacticas curriculo, casas estructura de casas, principios filosóficos, 9 pilares de fer, Areas(ritmo pertucitvo , ritmo corporal, ), los valores constututivos de la música, ritmo altura, etc.
 
 ### Sobre relaciónes con agentes externos
-- import cesar se conecta con lucas jaramillo para coordinar los estímulos.
-- import Comuna cinco. Proceso didáctico de laboratorio.
-- not Casa de las estrategias. Casa morada. Posible publicación.
-- import  Proyecto de producción. Inventario de arte joven y popular de Medellín. casa de las estrategias
-- import nodo explora 
+-  cesar se conecta con lucas jaramillo para coordinar los estímulos.
+-  Comuna cinco. Proceso didáctico de laboratorio.
+- Se define que no esta en nuestra vocacion aportar los recursos para la  publicación de Casa de las estrategias, se puede manejar con los estimulos.
+-  Integrar investigacion de Casa de las Estrategias sobre : Inventario de arte joven y popular de Medellín.
+-  Integrar el nodo Explora 
+* Definir y comunicar conexiones con USM, LASO.
+* Marce enviara resumen de conexiones con las instituciones y a que tipo de  conexiones se han logrado
+
+####  interventoria/asesoria
+* se explica la división de presupuesto para los grupos sociales y políticos de la ciudad.
+* Se presentan: Mable herrera interventoria todo secretaría de educación y formación y  Jorge Mendoza Músico asesor red de escuela de música.Articula rcon consejo de música y red de escuelas de música
+* Sugieren  mapear los músicos y entidades,  usar las experiencias de mapeo de otras entidades, tener lectura de  ¿ que es lo que se ha encontrado en los sectores? ¿como son lo procesos que tiene la ciudad?
+ * ¿cómo recibir la crítica negativa? ¿como integrarla de manera positiva para ambos participantes, quien critica y el criticado? ¿como hacerlo agil?
+* mabel: no se sabe muy bien que es medellin vive la música debido a las  estrategias comunicacionales, casas de música debe estar separado de medellín vive la música, aprender a salirse, y meterse en el objeto del contrato
+* marcela queda de  mandar info a carlos barrios de MVLM para que no se confunda con Casas.
+* cesar sugiere crear una herramienta para sanear las quejas 
+* se sugiere un "mensajero"  un buen escucha puede ayudarnos a identificar y procesar 
+
+
+
+
 
 ### Sobre Operatividad Casas de Música
 - def primera clase .. nos presentamos, activación y ensamble, semana de tanteo
 
 
 ### Acerca de asuntos que debemos hacer como comité
-- exec Revisión de los pilares del proyecto general. Propuesta de recolección de información.
-- exec Aportes a los principios. Ampliación del principio hermenéuntico: parte y todo.Relevancia y pertinencia.
-- exec Desarrollo de la metáfora de la casa. Hospitalidad de la casa. Dar acogida. Apertura de ventanas y puertas. Redes de conexión (agua, luz, etc.)
-- exec camilo extiende desde la hermeneutica los principios
-- in Tarea: revisar el programa de Colombia creativa.
+-  Revisión de los pilares del proyecto general. Propuesta de recolección de información.
+-  Aportes a los principios. Ampliación del principio hermenéuntico: parte y todo.Relevancia y pertinencia.
+-  Desarrollo de la metáfora de la casa. Hospitalidad de la casa. Dar acogida. Apertura de ventanas y puertas. Redes de conexión (agua, luz, etc.)
+-  camilo extiende desde la hermeneutica los principios
+-  Investigar el programa de Colombia creativa.
+
+### Sobre entregables del Comité de Filosofía
+* En el libro de didacticas curriculo, casas estructura de casas, principios filosóficos, 9 pilares de fer, Areas(ritmo percuitvo , ritmo corporal, ), los valores constututivos de la música, ritmo altura, etc.
+* Escribir el capítulo del libro ritmo, el ritmo en muchos aspectos y se junta con la vida, en un sentido más amplio es la manipulación de la duración, 
+* Escribir captitulo de Transientes.
+#### Notas sobre el ritmo:
+Hay repetición se crean patrones, vida, guin, poesia, combinacion constantes y variables, hay períodos, repeticiones, son motores, se crean sincronias, del ritmo se deriva el tiempo, el compas, romper las secuencias, el error, lo magico.
+* Daniel si no hay movimiento no hay ritmo, la repetición de elemento. Del repetir y no repetir surge la  duración.
+*  Fede escribira 'ritmo desde el tiempo y la lógica/ secuencias'
+*  Daniel escribe sobre motores rítmicos,  patrones y flow.
+* Ttita y Cesar escriben sobre la  correspondencia  la vida (o hippie)
+*  Fer esribe lo  creativo, compositivo
+* Fer tita sobre lo  pedagógico
+* Camilo sobre el  lenguaje sintactico, referente:  texto octavio paz del ritmo 
 
 
 
-#Ritmo:
-Hay repetición se crean patrones, vida, guin, poesia, combinacion constantes y variables, hay períodos, repeticiones, son motores, se crean sincronias, del ritmo se deriva el tiempo, el compas, romper las secuencias, el error, lo magico 
-Daniel si no hay movimiento no hay ritmo, la repetición de elemento
-del repetir y no repetir, duración.
-
-# Ritmo
-
-exec!  'ritmo desde el tiempo y la lógica/ secuencias'
-dani y fede lo def técnico Daniel: motores rítmicos y patrones.
-tita y cesar la def correspondencia  la vida lo hippie
-fer lo def creativo compositivo
-fer tita def pedagógico
-camilo  def lenguaje sintactico, 
-try  texto octavio paz del ritmo 
-
-# interventoria
-as se explica la división de presupuesto para los grupos sociales y políticos de la ciudad.
-def Mable herrera interventoria todo secretaría de educación y formación
-def Jorge Mendoza Músico asesor red de escuela de música.Articula rcon consejo de música y red de escuelas de música
-def Música electronicas programación, sonido, ruido
-
-exec mapear los músicos y entidades
-exec usar las experiencias de mapeo de otras entidades
-import ¿lectura que es lo que se ha encontrado en los sectores?
-import ¿como son lo procesos que tiene la ciudad?
-
-def fer es formación desde la música .. no es formación para la música.
-
-import ¿cómo recibir la crítica negativa?
-def Crítica negativa nos ayuda a fortalecer la ruta, es un bien preciado
 
 
-while mabel: no se sabe muy bien que es medellin vive la música estrategias comunicacionales, casas de música separado de medellín vive la música, aprender a salirse, y meterse en el objeto del contrato
-do=marcela  mandar info a carlos barrios
-
-
-exec! cesar sugiere crear una herramienta para sanear las quejas 
-
-def claridad en comun
-
-try a=John   un buen escucha puede ayudarnos a aceptar la cr+itica negativa.
-
-def la ciudad atiende prácticas de música popular.
-def desde estas prácticas puede venir una lectura para proponer cosas nuevas desde lo pedagógico, la política del "aprender haciendo" cambió al "aprender creando" la creación como derecho fundamental.
-def las mismas herramientas aprendidas para la música aplicadas a la vida
-
-import conectorores -- LASO USM Casas de la cultura
-do=Marce Resumen de conexiones con las instituciones y a que conexiones se han logrado
-exec Invetario recursos musicales de la ciudad
-   directorio
-   mapa funcional
-
-exec! yo
-# Transientes
-try introducción al análisis de vibraciones
-def Pongamanos a hacer música no hablemos tanta $%&&#
 def La zona de tolerancia la define ud. cuando estudiar, cuando divertirse, y cuando estudiar, si su diversion molesta a alguien.
 def Cocinar como ejemplo de trabajo en grupo, hacer un sancocho, quien lidera el sancocho
 in camilo: como construir una estrategia de fidelización
 def Guardian del tiempo guardian de la distracción
-exec cambiar nombre casa de experimentos
-exec juridicamente hacer casas de experimentos
-exec el libro del mapa funcional existe en el SENA
+
+Ejecutar: juridicamente hacer casas de experimentos
+Ejecutar: el libro del mapa funcional existe en el SENA
 as reunion comuna 13 no son representados por lideres visibles.
 def documentación y seguimiento (tomado de lista, fidelización, llamado a lista)
 def Casas de música se acerca a educación, jornadas complementarias y la red.disminuir el numero de gente antendida. hay que formalizar esa separación
