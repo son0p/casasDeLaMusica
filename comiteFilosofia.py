@@ -1,71 +1,110 @@
-1.
-Medellin vive la música se entiende como un sistema total, único y articulado
+# Bitácora del comite de filosofía para Casas de Música
 
-2.
-El trabajo colaborativo entre docentes, músicos, gestores y productores a favor de un proceso de formación con alcances de ciudad
-Aqui no hay allá si hay ... ensamble
+Nota: esta bitácora alimenta el documento filosofíaCasasDeMusica.md
 
+## Semana Agosto 30 a Julio 4
 
-3.
-La lectura de los contextos de hoy como base para la construcción y desarrollo de los nuevos espacios.  
-para ser pertinentes, en pragmatica se usa el principio de relevancia, es relevante si tiene el mayor numero de vinculos contextuales.
+Asisten: Tita Maya, Luis Fernando Franco, Camilo Suarez, Daniel Crow, Federico López
 
-4.
-La consolidación de espacios de formación como plataformas de conexión con la ciudad, con el país y con el mundo
-cosas pequeñas bien conectadas, sistemas federados, exec pasar párrafo desde el principio de la conectividad., articular adentro  y conectarnos con el afuera.
+### Definiciones que usaremos en Casas de Música
+- def Currículo. Método. Aprender haciendo y aprender creando. Diferenciar los cómo y los qué.
 
-5.
-La construcción de ciudadanía partir de la adaptabilidad y el respeto por la diversidad cultural
+### Acerca de herramientas que consideramos necesarias
+- exec Inventario de recursos y mapa funcional de la música en la ciudad. 
 
-6.
-La valoración del proceso creativo y la formación de públicos por encima de los escenarios que hoy privilegia la sociedad del espectáculo.
+### Sobre entregables del Comité de Filosofía
+- exec escribir el capítulo del libro ritmo, el ritmo en muchos aspectos y se junta con la vida, en un sentido más amplio es la manipulación de la duración, 
 
-7.
-La movilización de la ciudadanía alrededor de la música como un punto de encuentro y vivencia vital del espacio público de Medellín.
+- def En el libro de didacticas curriculo, casas estructura de casas, principios filosóficos, 9 pilares de fer, Areas(ritmo pertucitvo , ritmo corporal, ), los valores constututivos de la música, ritmo altura, etc.
 
-8.
-Cocreación para la sostenibilidad del proyecto y de las iniciativas artísticas individuales.
+### Sobre relaciónes con agentes externos
+- import cesar se conecta con lucas jaramillo para coordinar los estímulos.
+- import Comuna cinco. Proceso didáctico de laboratorio.
+- not Casa de las estrategias. Casa morada. Posible publicación.
+- import  Proyecto de producción. Inventario de arte joven y popular de Medellín. casa de las estrategias
+- import nodo explora 
 
-9.
-El libre acceso para el uso de los contenidos, producciones y métodos que Medellín vive la música genera.
+### Sobre Operatividad Casas de Música
+- def primera clase .. nos presentamos, activación y ensamble, semana de tanteo
 
 
+### Acerca de asuntos que debemos hacer como comité
+- exec Revisión de los pilares del proyecto general. Propuesta de recolección de información.
+- exec Aportes a los principios. Ampliación del principio hermenéuntico: parte y todo.Relevancia y pertinencia.
+- exec Desarrollo de la metáfora de la casa. Hospitalidad de la casa. Dar acogida. Apertura de ventanas y puertas. Redes de conexión (agua, luz, etc.)
+- exec camilo extiende desde la hermeneutica los principios
+- in Tarea: revisar el programa de Colombia creativa.
 
-# Notas
-- primera clase .. nos presentamos, activación y ensamble
-- escribir el capítulo del libro ritmo
-- Comuna cinco. Proceso didáctico de laboratorio.
-- Casa de las estrategias. Casa morada. Posible publicación. Proyecto de producción. Inventario de arte joven y popular de Medellín. 
-- Ahora hablaremos de programas de formación y comienzo de clases.
-- Inventario de recursos y mapa funcional de la música en la ciudad. 
-- Revisión de los pilares del proyecto general. Propuesta de recolección de información.
-- Tarea: revisar el programa de Colombia creativa.
-- Currículo. Método. Aprender haciendo y aprender creando. Diferenciar los cómo y los qué.
 
-- Aportes a los principios. Ampliación del principio hermenéuntico: parte y todo.
-Relevancia y pertinencia.
-- Desarrollo de la metáfora de la casa. Hospitalidad de la casa. Dar acogida. Apertura de ventanas y puertas. Redes de conexión (agua, luz, etc.)
 
+#Ritmo:
+Hay repetición se crean patrones, vida, guin, poesia, combinacion constantes y variables, hay períodos, repeticiones, son motores, se crean sincronias, del ritmo se deriva el tiempo, el compas, romper las secuencias, el error, lo magico 
+Daniel si no hay movimiento no hay ritmo, la repetición de elemento
+del repetir y no repetir, duración.
+
+# Ritmo
+
+exec!  'ritmo desde el tiempo y la lógica/ secuencias'
+dani y fede lo def técnico Daniel: motores rítmicos y patrones.
+tita y cesar la def correspondencia  la vida lo hippie
+fer lo def creativo compositivo
+fer tita def pedagógico
+camilo  def lenguaje sintactico, 
+try  texto octavio paz del ritmo 
+
+# interventoria
+as se explica la división de presupuesto para los grupos sociales y políticos de la ciudad.
+def Mable herrera interventoria todo secretaría de educación y formación
+def Jorge Mendoza Músico asesor red de escuela de música.Articula rcon consejo de música y red de escuelas de música
+def Música electronicas programación, sonido, ruido
+
+exec mapear los músicos y entidades
+exec usar las experiencias de mapeo de otras entidades
+import ¿lectura que es lo que se ha encontrado en los sectores?
+import ¿como son lo procesos que tiene la ciudad?
+
+def fer es formación desde la música .. no es formación para la música.
+
+import ¿cómo recibir la crítica negativa?
+def Crítica negativa nos ayuda a fortalecer la ruta, es un bien preciado
+
+
+while mabel: no se sabe muy bien que es medellin vive la música estrategias comunicacionales, casas de música separado de medellín vive la música, aprender a salirse, y meterse en el objeto del contrato
+do=marcela  mandar info a carlos barrios
+
+
+exec! cesar sugiere crear una herramienta para sanear las quejas 
+
+def claridad en comun
+
+try a=John   un buen escucha puede ayudarnos a aceptar la cr+itica negativa.
+
+def la ciudad atiende prácticas de música popular.
+def desde estas prácticas puede venir una lectura para proponer cosas nuevas desde lo pedagógico, la política del "aprender haciendo" cambió al "aprender creando" la creación como derecho fundamental.
+def las mismas herramientas aprendidas para la música aplicadas a la vida
+
+import conectorores -- LASO USM Casas de la cultura
+do=Marce Resumen de conexiones con las instituciones y a que conexiones se han logrado
+exec Invetario recursos musicales de la ciudad
+   directorio
+   mapa funcional
+
+exec! yo
+# Transientes
+try introducción al análisis de vibraciones
 def Pongamanos a hacer música no hablemos tanta $%&&#
 def La zona de tolerancia la define ud. cuando estudiar, cuando divertirse, y cuando estudiar, si su diversion molesta a alguien.
 def Cocinar como ejemplo de trabajo en grupo, hacer un sancocho, quien lidera el sancocho
-
-camilo: como construir una estrategia de fidelización
-
-Guardian del tiempo guardian de la distracción
-
+in camilo: como construir una estrategia de fidelización
+def Guardian del tiempo guardian de la distracción
 exec cambiar nombre casa de experimentos
 exec juridicamente hacer casas de experimentos
 exec el libro del mapa funcional existe en el SENA
-
 as reunion comuna 13 no son representados por lideres visibles.
-
 def documentación y seguimiento (tomado de lista, fidelización, llamado a lista)
 def Casas de música se acerca a educación, jornadas complementarias y la red.disminuir el numero de gente antendida. hay que formalizar esa separación
-
 as ellos han robado niños a la guerra, han estado donde el estado no ha estado en educación, que existan esas escuelas, pero que no se quede ahi, los que quieran aumentar su nivel
 as Medellin vive la musica saca de casas de musica el asunto político con los grupos existentes.
-
 def como es el paso del aprender haciendo al aprender creando, la traducción de los aprendizaje a la vida misma, 
 
 
@@ -73,7 +112,7 @@ def como es el paso del aprender haciendo al aprender creando, la traducción de
 #libroFilosofia 
 from podría parecerse a una constitución de un pais 
 raise una filosofía tiene sentido cuando rebota, el feedback
-10 consejos para un compositor de jinistera o algo asi
+in 10 consejos para un compositor de jinistera o algo asi
 if el libro de filosofía es como manifiesto?
 if es un libro que deja la manera de ver de un grupo de personas la idea de educación a nivel de ciudad como orff.
 if se puede usar la metáfora de la casa, como los planos, la arquitectura.
@@ -87,29 +126,27 @@ def no se dice la regla, se dice la consigna
 def esos principios son los intangibles, debe llegar al nivel de el perfil de la señora de la tienda, como es la estética., cuantos salones, perfil profesores, como se hacen equipos de trabajo
 
 
-
-
-
-Mas que de casas vamos a hablar de programas, programas transversales
+def Mas que de casas vamos a hablar de programas, programas transversales
   percusión callejera
 
-Relación con casas de las estrategias
+import Relación con casas de las estrategias
 
-Referente el proceso de comuna 5
-ejercicio de aprender a perder, reflexión de aprender a perder, hacern pruebas de trabajo en equipo donde aprenden a perder.  Jhonn, daniel alvarez(de secretos)
-ivan,
-No sabían hacer un sancocho, pasaron por lectura de la nariz, a que huele, e ir sacando la receta.!
+import Referente el proceso de comuna 5, ejercicio de aprender a perder, reflexión de aprender a perder, hacern pruebas de trabajo en equipo donde aprenden a perder.  Jhonn, daniel alvarez(de secretos)
+ivan,No sabían hacer un sancocho, pasaron por lectura de la nariz, a que huele, e ir sacando la receta.!
 
-Tita: la educación perdió el hacer, holmer escribio my bien que es tejiendo, cocinando, imposibilidad de hacer y conquistados por el discurso.
+as Tita: la educación perdió el hacer, holmer escribio my bien que es tejiendo, cocinando, imposibilidad de hacer y conquistados por el discurso.
 
-Daniel: en salgar todos quedaron en acuerdo mental que movilizó de unas piedras.
-Tita. la comuna 5 pidió un ensamble. son 25 personas, el sistema de educación pbulicco tiene demasiados vacíos. se aprenden cosas primero lo otro se aprende después.muchas horas de arte
+class AcuerdoMental Daniel: en salgar todos quedaron en acuerdo mental que movilizó de unas piedras.
+as Tita. la comuna 5 pidió un ensamble. son 25 personas, el sistema de educación pbulicco tiene demasiados vacíos. se aprenden cosas primero lo otro se aprende después.muchas horas de arte
 
-John : romper la barrera de yo soy el que enseño, no enseñar con hostigamiento, hay que hacer acompañamiento, sentarse al lado, "venga hagamoslo"  se elimina la palabra "no soy capáz"
+class sentarseAlLadoJohn : romper la barrera de yo soy el que enseño, no enseñar con hostigamiento, hay que hacer acompañamiento, sentarse al lado, "venga hagamoslo"  
 
-Dani: veo en la cultura de uds. la capacidad que alguien tiene una idea y puede sacarlo adelante, en mi cultura era un veto.
-Tita: reconocemos que ellos tienen buen trabajo en lo social, lo valoramos, abrimos el espacio de casas si lo necesitan.
-tengo en mi corazón una clase media atropellada, que esta descuidada.
+class eliminaNoSoyCapaz se elimina la palabra "no soy capáz"
+
+as Dani: veo en la cultura de uds. la capacidad que alguien tiene una idea y puede sacarlo adelante, en mi cultura era un veto.
+as Tita: reconocemos que ellos tienen buen trabajo en lo social, lo valoramos, abrimos el espacio de casas si lo necesitan.
+def tengo en mi corazón una clase media atropellada, que esta descuidada.
+
 Temas para esta semana,
 --libro de lukas que proceso de formación puede detonar? (investigación, podría hacer parte del área)
 -- proceso de producción
@@ -119,10 +156,8 @@ Temas para esta semana,
 -- como iniciamos la semana entrante
 -- balance
 
-de cuanta gente los grupos?
-milena:
-la alcaldía quiere hacerle bulla al arranque, se hace un ensamble con los chicos que llegan esta semana
-hhicieron grupos que si eran muchos, si eran menos o si eran más chiquitos
+in de cuanta gente los grupos?
+def milena:la alcaldía quiere hacerle bulla al arranque, se hace un ensamble con los chicos que llegan esta semana, hhicieron grupos que si eran muchos, si eran menos o si eran más chiquitos
 
 se van a hacer dos eventos grandes, nuevas poéticas,
 ¿Qué tenemos pensado de formación de formadores para el resto del año?
