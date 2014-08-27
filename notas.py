@@ -7,6 +7,63 @@ continue  finally   is        return
 def       for       lambda    try
 
 #Notas
+
+Carlos: preocupaciòn ¿formaciòn avanzada?
+con la red de danza cuando hay alguien con habilidades especiales
+nostalgia en la ciudad por la epa
+donde se ubica alguien con ganas de avanzar
+el gran reto del proyecto es pensar macro, mirada de conjunto, determinar que hay componentes que falta fortalecer
+me preocupa no ofrece alternativas en la profesionalizaciòn
+
+Trabajamos a ciegas No hay cifras, debemos cuestionarnos 
+Observatorio que les de herramientas aprender de las escalas, la mora, rentable .. masterizar
+
+tita  forma de agremiar y contratar profesores de mùsica
+
+comunicar desarrollo humando por medio de la mùsica
+
+referente kung fu
+
+ojo con hacer el cluster de la alcaldìa .. no el cluster de la ciudad  tiene mucho que ver con el modelo de como se gestione 
+
+esta clara la teorìa falta la pràctica
+
+### ojo con dejar unos elementos tan importantes que se demostrò que era como lo planteamos para que el programa tenga relevancia polìtica.
+
+Para que estoy tocando instrumento?   el instrumento es el vehiculo para acercarme al entorno 
+
+#Modelo pedagògico
+
+
+
+#Areas 
+
+###diferencias con la red
+Ritmico corporal
+Ritmico percutivo
+Ritmico armònico
+Nuevas poèticas 
+
+agosto carlos guisa
+foro nacional cultura  17 de septiembre  casa de la mùsica
+
+bases conceptuales 
+ desarrollo del ser humano
+ construcciòn de valores
+
+Componentesç
+
+Formacion
+Desarrollo creativo
+circulaciòn
+investigaciòn
+producciòn
+organizacional
+
+
+
+
+
 # Cantoalegre
 convenio asociativo 20% del proyecto  
 ## Relacion Hard Rock taller

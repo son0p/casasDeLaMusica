@@ -35,7 +35,9 @@ Asisten: Tita Maya, Luis Fernando Franco, Camilo Suarez, Daniel Crow, Federico L
 
 ####  interventoria/asesoria
 * se explica la división de presupuesto para los grupos sociales y políticos de la ciudad.
-* Se presentan: Mable herrera interventoría todo secretaría de educación y formación y  Jorge Mendoza Músico asesor red de escuela de música.Articula con consejo de música y red de escuelas de música
+* Se presentan: Mable herrera interventoría todo secretaría de educación y formación y  Jorge Mendoza Músico asesor r
+
+ed de escuela de música.Articula con consejo de música y red de escuelas de música
 * Sugieren  mapear los músicos y entidades,  usar las experiencias de mapeo de otras entidades, tener lectura de  ¿ que es lo que se ha encontrado en los sectores? ¿como son lo procesos que tiene la ciudad?
  * ¿cómo recibir la crítica negativa? ¿como integrarla de manera positiva para ambos participantes, quien critica y el criticado? ¿como hacerlo ágil?
 * mabel: no se sabe muy bien que es medellin vive la música debido a las  estrategias comunicacionales, casas de música debe estar separado de medellín vive la música, aprender a salirse, y meterse en el objeto del contrato
