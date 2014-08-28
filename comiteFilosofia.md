@@ -1,4 +1,4 @@
-# Bitácora del comite de filosofía para Casas de Música
+# Bitácora del comité de filosofía para Casas de Música
 
 Nota: esta bitácora alimenta el documento filosofíaCasasDeMusica.md
 
@@ -11,14 +11,14 @@ Asisten: Tita Maya, Luis Fernando Franco, Camilo Suarez, Daniel Crow, Federico L
 
 ### Definiciones o valores, que usaremos en Casas de Música
 * Aprender haciendo y aprender creando. Diferenciar los cómo y los qué.
-* La creacion como derecho fundamental.
+* La creación como derecho fundamental.
 * Cambiar nombre de Laboratorio a "Casa de experimentos"
 * Es formación desde la música .. no es formación para la música.
 * Las mismas herramientas aprendidas para la música aplicadas a la vida
-* Apreciamos la crítica negativa y buscamos maneras de debatir e integrar lo que surga de ella
+* Apreciamos la crítica negativa y buscamos maneras de debatir e integrar lo que surge de ella
 * Consideramos que la critica negativa nos ayuda a fortalecer nuestra  ruta, es un bien preciado
-* Con Casas de la Musica  la ciudad atiende prácticas de música popular.
-* Pongamanos a hacer música no hablemos tanta $%&&#
+* Con Casas de la Música  la ciudad atiende prácticas de música popular.
+* Pongámonos a hacer música no hablemos tanta $%&&#
 
 ### Acerca de herramientas que consideramos necesarias
 - Ejecutar: Inventario de recursos y mapa funcional de la música en la ciudad. 
@@ -27,17 +27,19 @@ Asisten: Tita Maya, Luis Fernando Franco, Camilo Suarez, Daniel Crow, Federico L
 ### Sobre relaciónes con agentes externos
 -  cesar se conecta con lucas jaramillo para coordinar los estímulos.
 -  Comuna cinco. Proceso didáctico de laboratorio.
-- Se define que no esta en nuestra vocacion aportar los recursos para la  publicación de Casa de las estrategias, se puede manejar con los estimulos.
--  Integrar investigacion de Casa de las Estrategias sobre : Inventario de arte joven y popular de Medellín.
+- Se define que no esta en nuestra vocación aportar los recursos para la  publicación de Casa de las estrategias, se puede manejar con los estímulos.
+-  Integrar investigación de Casa de las Estrategias sobre : Inventario de arte joven y popular de Medellín.
 -  Integrar el nodo Explora 
 * Definir y comunicar conexiones con USM, LASO.
 * Marce enviara resumen de conexiones con las instituciones y a que tipo de  conexiones se han logrado
 
 ####  interventoria/asesoria
 * se explica la división de presupuesto para los grupos sociales y políticos de la ciudad.
-* Se presentan: Mable herrera interventoria todo secretaría de educación y formación y  Jorge Mendoza Músico asesor red de escuela de música.Articula rcon consejo de música y red de escuelas de música
+* Se presentan: Mable herrera interventoría todo secretaría de educación y formación y  Jorge Mendoza Músico asesor r
+
+ed de escuela de música.Articula con consejo de música y red de escuelas de música
 * Sugieren  mapear los músicos y entidades,  usar las experiencias de mapeo de otras entidades, tener lectura de  ¿ que es lo que se ha encontrado en los sectores? ¿como son lo procesos que tiene la ciudad?
- * ¿cómo recibir la crítica negativa? ¿como integrarla de manera positiva para ambos participantes, quien critica y el criticado? ¿como hacerlo agil?
+ * ¿cómo recibir la crítica negativa? ¿como integrarla de manera positiva para ambos participantes, quien critica y el criticado? ¿como hacerlo ágil?
 * mabel: no se sabe muy bien que es medellin vive la música debido a las  estrategias comunicacionales, casas de música debe estar separado de medellín vive la música, aprender a salirse, y meterse en el objeto del contrato
 * marcela queda de  mandar info a carlos barrios de MVLM para que no se confunda con Casas.
 * cesar sugiere crear una herramienta para sanear las quejas 
@@ -53,57 +55,57 @@ Asisten: Tita Maya, Luis Fernando Franco, Camilo Suarez, Daniel Crow, Federico L
 
 ### Acerca de asuntos que debemos hacer como comité
 -  Revisión de los pilares del proyecto general. Propuesta de recolección de información.
--  Aportes a los principios. Ampliación del principio hermenéuntico: parte y todo.Relevancia y pertinencia.
+-  Aportes a los principios. Ampliación del principio hermenéutico: parte y todo.Relevancia y pertinencia.
 -  Desarrollo de la metáfora de la casa. Hospitalidad de la casa. Dar acogida. Apertura de ventanas y puertas. Redes de conexión (agua, luz, etc.)
--  camilo extiende desde la hermeneutica los principios
+-  camilo extiende desde la hermenéutica los principios
 -  Investigar el programa de Colombia creativa.
 
 ### Sobre entregables del Comité de Filosofía
-* En el libro de didacticas curriculo, casas estructura de casas, principios filosóficos, 9 pilares de fer, Areas(ritmo percuitvo , ritmo corporal, ), los valores constututivos de la música, ritmo altura, etc.
+* En el libro de didácticas currículo, casas estructura de casas, principios filosóficos, 9 pilares de fer, Áreas(ritmo percutivo , ritmo corporal, ), los valores constitutivos de la música, ritmo altura, etc.
 * Escribir el capítulo del libro ritmo, el ritmo en muchos aspectos y se junta con la vida, en un sentido más amplio es la manipulación de la duración, 
-* Escribir captitulo de Transientes.
+* Escribir capitulo de Transientes.
 
 #### Notas sobre el ritmo:
-Hay repetición se crean patrones, vida, guin, poesia, combinacion constantes y variables, hay períodos, repeticiones, son motores, se crean sincronias, del ritmo se deriva el tiempo, el compas, romper las secuencias, el error, lo magico.
+Hay repetición se crean patrones, vida, guin, poesía, combinación constantes y variables, hay períodos, repeticiones, son motores, se crean sincronías, del ritmo se deriva el tiempo, el compás, romper las secuencias, el error, lo mágico.
 * Daniel si no hay movimiento no hay ritmo, la repetición de elemento. Del repetir y no repetir surge la  duración.
-*  Fede escribira 'ritmo desde el tiempo y la lógica/ secuencias'
+*  Fede escribirá 'ritmo desde el tiempo y la lógica/ secuencias'
 *  Daniel escribe sobre motores rítmicos,  patrones y flow.
 * Ttita y Cesar escriben sobre la  correspondencia  la vida (o hippie)
-*  Fer esribe lo  creativo, compositivo
+*  Fer escribe lo  creativo, compositivo
 * Fer tita sobre lo  pedagógico
-* Camilo sobre el  lenguaje sintactico, referente:  texto octavio paz del ritmo 
+* Camilo sobre el  lenguaje sintáctico, referente:  texto octavio paz del ritmo 
 
 
 
 
 
-def La zona de tolerancia la define ud. cuando estudiar, cuando divertirse, y cuando estudiar, si su diversion molesta a alguien.
+def La zona de tolerancia la define ud. cuando estudiar, cuando divertirse, y cuando estudiar, si su diversión molesta a alguien.
 def Cocinar como ejemplo de trabajo en grupo, hacer un sancocho, quien lidera el sancocho
 in camilo: como construir una estrategia de fidelización
-def Guardian del tiempo guardian de la distracción
+def Guardián del tiempo guardián de la distracción
 
-Ejecutar: juridicamente hacer casas de experimentos
+Ejecutar: jurídicamente hacer casas de experimentos
 Ejecutar: el libro del mapa funcional existe en el SENA
-as reunion comuna 13 no son representados por lideres visibles.
+as reunión comuna 13 no son representados por lideres visibles.
 def documentación y seguimiento (tomado de lista, fidelización, llamado a lista)
-def Casas de música se acerca a educación, jornadas complementarias y la red.disminuir el numero de gente antendida. hay que formalizar esa separación
+def Casas de música se acerca a educación, jornadas complementarias y la red.disminuir el numero de gente atendida. hay que formalizar esa separación
 as ellos han robado niños a la guerra, han estado donde el estado no ha estado en educación, que existan esas escuelas, pero que no se quede ahi, los que quieran aumentar su nivel
-as Medellin vive la musica saca de casas de musica el asunto político con los grupos existentes.
+as Medellin vive la música saca de casas de música el asunto político con los grupos existentes.
 def como es el paso del aprender haciendo al aprender creando, la traducción de los aprendizaje a la vida misma, 
 
 
 
 #libroFilosofia 
-from podría parecerse a una constitución de un pais 
+from podría parecerse a una constitución de un país 
 raise una filosofía tiene sentido cuando rebota, el feedback
 in 10 consejos para un compositor de jinistera o algo asi
 if el libro de filosofía es como manifiesto?
 if es un libro que deja la manera de ver de un grupo de personas la idea de educación a nivel de ciudad como orff.
 if se puede usar la metáfora de la casa, como los planos, la arquitectura.
 if se hace el documento con tres traducciones, usuario de ciudad proyectos multidiciplinarios, usuario académico música, usuario de barrio, 
-if hay unos principios y se profundiza en capitulos
-if no nos interesa un libro academico, nos intersan principios para conectar institucionalmente, y a la gente del común.
-break tita: diferencia los como y los que, unos principios filosóficos estilo steiner, pero hay condiciones espeficicas en la practica, no es 2+3 = 5  sino 5 = 2+3  primero el total que las partes.
+if hay unos principios y se profundiza en capítulos
+if no nos interesa un libro académico, nos interesan principios para conectar institucionalmente, y a la gente del común.
+break tita: diferencia los como y los que, unos principios filosóficos estilo steiner, pero hay condiciones especificas en la practica, no es 2+3 = 5  sino 5 = 2+3  primero el total que las partes.
 def no tener contradicciones entre principios, 
 def trilogia del pensar sentir hacer
 def no se dice la regla, se dice la consigna
