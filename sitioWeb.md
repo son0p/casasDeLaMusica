@@ -1,3 +1,9 @@
+divulgacion
+practicas
+rutinas de estudio
+profundización
+
+
 luis pezeti referente pagina
 utilidades .. links recomendados
 
@@ -5,6 +11,25 @@ la forma mas util para navegar el sitio
 incribirse como grupo
 profes
 alumnos
+
+audio? y que es esto? a que te suena?  puntos
+referente haskell codecadmy
+
+reforzar medellin vive la música  usar la interacción para comunicar (ocasional)
+
+de lo virtual sale un nodo adicional
+
+treceavo nodo
+
+streamming
+
+evaluar que se necesitaría para continuara en el tiempo entrega de la alcaldía .. gestión
+
+que el alumno se vea
+que el profesor califique
+
+
+llevar compu a los nodos y mostrar su perfil 
 
 
 bienvenido al mundo

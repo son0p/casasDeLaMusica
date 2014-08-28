@@ -1,4 +1,7 @@
 # Valores
+
+
+
 Antes de hacer un post puedes mirar estas preguntas
 - ¿Es educativo? ¿Aprendo algo ?
 - ¿Es un dato curioso sobre nosotros o sobre la música o sobre la formación de ciudadanía?
@@ -7,6 +10,13 @@ Antes de hacer un post puedes mirar estas preguntas
 - ¿Es autopromoción? cuidar la cantidad de publicaciones de este tipo, uno diario
 
 
+# martes 15
+- hacer actvación de eletronica en martes 22 en la tard en el doce de octubre
+- solo llamaban a los del papel, no estaban las listas de la pagina.
+- a los niños su clase es a tal hora en tal salon la hora,
+- recordar las dos primeras semanas
+- a los grandes invitarlo a que sean asisten
+- brolin hacer control de llamada
 
 
 # martes 24
