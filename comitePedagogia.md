@@ -1,3 +1,36 @@
+# Comité pedagogía Casas de Música
+## Publicaciones
+Dos formatos de libros
+1. para grandes
+   Cancionero popular colombiano
+   Andino
+   Raices
+   Mundo (lo que nos ha influenciado)
+   Percusión Cortes
+   Eugene Uman
+   
+2. para iniciación
+   A CANTAR! ritmico-armónico
+   A JUGAR ! juegos de cuerpo ritmico-corporal
+   CORO
+   ENSAMBLE muchos poquitos forman uno grande
+   Electrónica
+   Filosófico
+3. Métodos
+   Pre-lectura
+   Lectura
+   Rítmico
+   Instrumento
+     Ukeleke
+	 Guitarra
+   Teclas
+   secuencias
+   generación
+   Eugéne
+   Motores rítmicos
+
+---
+
 * rolling stone
 * clubes de audición
 * lucas

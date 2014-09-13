@@ -8,8 +8,77 @@ def       for       lambda    try
 
 repr super 
 
-#Notas
 
+
+
+#Notas
+10 Septiembre
+
+Fer: vienen unos artistas para octubre, podíamos hacer talleres.
+viene el de Brasil, máximo treinta cupos
+
+Formadores= ------------------------
+1nivel : danzas ciculares, orff, ensambles, juegos corporales, circulo motricidad, coordinacion, cuadratura, improvisación
+2nivel : lacide romero, ferFranco, Raul 
+
+
+movimiento coral en las escuelas para jornada complementaria
+
+#contratación
+hibridos como tomas para inicicación y electrónica
+
+
+#formación 
+posible ciclo formación de producción
+  Producción ejecutiva
+  Producción Técnica
+  Producción Artística
+
+# creativo
+con lo que hay .. como hacemos un repertorio
+con los chicos siempre repertorio
+repertorio para clase
+repertorio para escuela
+repertorio para MVLM
+
+ensayo jueves 7:00 am
+
+
+
+#ORF '''''''''
+consebir el cuerpo con 4 alturas
+soprano dedis
+contraltos  palmas
+tenores muslos
+bajos pies 
+
+#Valores
+Respesto
+Prudencia
+Flexibilidad
+Responsabilidad
+No merecimiento
+Proactivo 
+
+ Lupa
+
+Motores rítmicos
+
+Septiembre 3
+
+
+para la feria vamos con dos 
+programar sessiones donde se entregue el libro tocando
+
+fer: algo montado, algo tocado tipo clase, espontáneo
+
+musica corriente: proceso de formación, producción, altavoz
+
+que nos hace falta en percusiones urbanas
+
+Pedagogía= por un lado tarjetas con notas por otro lado punchis
+
+Filosofía= ///////////
 Carlos: preocupaciòn ¿formaciòn avanzada?
 con la red de danza cuando hay alguien con habilidades especiales
 nostalgia en la ciudad por la epa
@@ -34,10 +103,6 @@ esta clara la teorìa falta la pràctica
 
 Para que estoy tocando instrumento?   el instrumento es el vehiculo para acercarme al entorno 
 
-#Modelo pedagògico
-
-
-
 #Areas 
 
 ###diferencias con la red
@@ -45,9 +110,6 @@ Ritmico corporal
 Ritmico percutivo
 Ritmico armònico
 Nuevas poèticas 
-
-agosto carlos guisa
-foro nacional cultura  17 de septiembre  casa de la mùsica
 
 bases conceptuales 
  desarrollo del ser humano
@@ -61,6 +123,8 @@ circulaciòn
 investigaciòn
 producciòn
 organizacional
+
+24 horas paquete 1'200.000
 
 
 
