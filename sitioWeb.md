@@ -4,20 +4,20 @@
 Alumno, Monitor, Profesor,  Administrador académico, Administrador Técnico
 
 ## Relaciones
-Alumno -< Programas
-Alumno - Profesor
-Profesor -< Alumnos
+* Alumno -< Programas
+* Alumno - Profesor
+* Profesor -< Alumnos
 
-
-## Entrada
+---
+# Usabilidad
+### Entrada
 *Aterrizaje*: Breve información, gran facilidad de orientarse, y un secuenciador donde se puede escuchar a otros haciendo música y se puede activar un track para participar en el ensamble.
 
 *Orientación*: Presenta una oferta de programas(materias) y las herramientas para navegarlas de ida y regreso.
 
----
-## Programas
+### Programas
 
-Nota:Un evento lo tratamos como un programa de un día.
+Nota: Un evento lo tratamos como un programa de un día.
 
 Cada programa tiene: *Divulgación*, *Prácticas creativas*, *Rutinas de estudio*, *Profundización*
 
