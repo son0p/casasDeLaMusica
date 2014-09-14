@@ -12,6 +12,121 @@ repr super
 
 
 #Notas
+#Sitio Web
+
+Notas del documento de construcción de participación ciudadana en brazil por Renato Fabri:
+https://github.com/ttm/pnud4
+
+Introducción:
+Contexto e Importancia del producto, Objetivos, Resultados esperados, Aparato en Software y Hardware.
+
+Desarrollo:
+* Desarrollo
+  * Etapas de desarrollo anterior a este product
+    * sistematizacion ontologica de participación en línea
+	* Tipificación de datos
+	* Levantamiento de Endpoint SparQl
+	* Analisis iniciales, Modelos
+  * Etapas de desarrollo
+    * Reuniones con equipo
+	* Estudios de profundizacón y maduramiento
+	* Texto
+	* Especificación de la API
+	* Implementación  del servicio para adquisición de datos, procesamiento y entrega en JSON
+	* Rutinas en IPython Notebook
+	* Propuesta de Implementación
+  * Justificación del método
+  * Justificación de las fuentes
+  * Confrontación entre los resultados esperados y los alcanzados
+
+* Uso de resultados
+* Conclusión
+  * Comentarios, sugerencias, recomendaciones
+  * Impacto de producto para elaboración de políticas de ..
+  * Como el producto deberá  impactar el público
+
+
+luis pezeti referente pagina
+utilidades .. links recomendados
+
+la forma mas util para navegar el sitio
+incribirse como grupo
+profes
+alumnos
+
+audio? y que es esto? a que te suena?  puntos
+referente haskell codecadmy
+
+reforzar medellin vive la música  usar la interacción para comunicar (ocasional)
+
+de lo virtual sale un nodo adicional
+
+treceavo nodo
+
+streamming
+
+evaluar que se necesitaría para continuara en el tiempo entrega de la alcaldía .. gestión
+
+que el alumno se vea
+que el profesor califique
+
+
+llevar compu a los nodos y mostrar su perfil 
+
+
+bienvenido al mundo
+
+grupos_?  genero integrantes,
+profesores? donde das clases?
+
+listado de niños con datos específicos
+papa mama, tipo de sangre,
+forma de contactarlo
+
+sale listas:
+
+el profesor tenga comunicación con los alumnos
+
+clasificar tipos de comunicacion
+
+Profesor - alumno
+profesor - alumnos
+coomunicarme con todo el nodo
+comunicarme con todos los alumnos de canecas de todos los nodos
+a medellin vive la musica
+
+m+inimo numero de palabras para decir lo que tenga que decir.
+
+perfil a profesores! :)
+
+que gente esta haciendo eso?
+referentes .. a quien seguir
+
+afinal de año todos los alumnos de los nodos inscritos
+
+
+Condensou assim, são 3 partes:
+*) Dashboards para cada entidade, tanto da coleção quanto da instância:
+[(letras,letra_i),
+(palavras,{palavra_i}),
+(comentários,{comentario_i},
+(postagens,{postagem_i}
+...
+(portais, {portal_i}]
+(participantes,{participante_i}),
+tudo]
+
+Cada item tem um dashboard, fruto de uma análise para caracterizar as incidências
+numericamente. Cada comentário tem uma análise/dashboard (em cada URI individual de preferência).
+A coleção de todos os comentários ("comentários") também possuem uma análise/dashboad.
+Este pareamento de indivíduos (certa palavra, certo comentário), só quebra com o dashboard/análise
+de todo o universo considerado, pois a instância é única e é a coleção.
+
+*) Todo recurso/dashboard pode ser usado para recomendação de outros recursos, via métodos
+variados para similaridade e não similaridade.
+
+
+
 10 Septiembre
 
 Fer: vienen unos artistas para octubre, podíamos hacer talleres.
