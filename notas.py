@@ -1,18 +1,11 @@
-and       del       from      not       while    
-as        elif      global    or        with     
-assert    else      if        pass      yield    
-break     except    import    print              
-class     exec      in        raise              
-continue  finally   is        return             
-def       for       lambda    try
-
-repr super 
-
-
-
 
 #Notas
+pedirle a pipe videos y tutoriales  
+documentar las clases o grabarlas.
+
 #Sitio Web
+
+
 
 Notas del documento de construcción de participación ciudadana en brazil por Renato Fabri:
 https://github.com/ttm/pnud4
@@ -37,7 +30,7 @@ Desarrollo:
 	* Propuesta de Implementación
   * Justificación del método
   * Justificación de las fuentes
-  * Confrontación entre los resultados esperados y los alcanzados
+  * Confrontación entre los resultados esperados y lOs alcanzados
 
 * Uso de resultados
 * Conclusión
