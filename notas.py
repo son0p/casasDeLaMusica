@@ -1,886 +1,708 @@
-and       del       from      not       while    
-as        elif      global    or        with     
-assert    else      if        pass      yield    
-break     except    import    print              
-class     exec      in        raise              
-continue  finally   is        return             
+and       del       from      not       while
+as        elif      global    or        with
+assert    else      if        pass      yield
+break     except    import    print
+class     exec      in        raise
+continue  finally   is        return
 def       for       lambda    try
 
-repr super 
+Formas comunes para los Niños
+-contar y descontar 2 elefantes se balanceaban
+-Acumulativos: sal de ahi chivo chivita
+-Sonoras: se habla con la misma vocal
+-Coplas (formas rondo) Un estribillo muy pegajoso que el niño se puede pegar muy fácil.
+-Romances: muchas estrofas que van contando una hitoria, como un cuento, don gato sentado en su tejado, recibe una carta que si quiere ser casado.
 
+ORF va ampiandose en ambos lados:
+unidad silencio
+mete corchea mete blanca
+mete semicorchea mete redonda
+mete tresillo y mete compas de tres
 
+Pentatonica MI
+Mi fa sol la si do
 
+6 de mayo
+- Organigrama
+- profesorado
+- asignar los grupos de trabajo
 
-#Notas
-#Sitio Web
 
-Notas del documento de construcción de participación ciudadana en brazil por Renato Fabri:
-https://github.com/ttm/pnud4
+Coordinadores de Areas
+Jose Cony
 
-Introducción:
-Contexto e Importancia del producto, Objetivos, Resultados esperados, Aparato en Software y Hardware.
+Coordinador laboratorio
+Pedro Rincon
+
+Coordinador iniciaciones
+
+
+"Empezamos la semana del 18 de mayo"
+
+3 horas cada vez, vamos 4 veces 80 alumnos por nodo
+
+colegios 2 coros (o en la mañana y en la tarde o dos cursos diferentes)
+Cony va a apoyar colegios y nodos, entra en representación de Pilar
+Caja de pandora se va a los jardines diseñada por cantolegre, dos sets, música y movimiento y otro de instrumentos  #Tita
+
+5millones para arreglo de instrumentos #jose
+
+Material de cuadernos pentagramados, cartillas maestros #Fer Claudia
+16 juegos de tarjetas de iniciación de lectura montajes de juegos  # Fer Claudia
+Tarjetas para los maestros # Tita Formación Formadores
+100 instrumentos mínimos para los colegios $12.000  # Claudia
+16 Set sonoro para coros  $550.000 # Claudia
+
+Entregables tita
+Instalación de plan de capacitación : Primera infancia e iniciación
+
+Libros de Coros Juegos Cancioneros
+
+Documento de curriculo de formación integral # Fer Fede
+Repertorio para cuatro niveles
+
+Material de apoyo para montajes 8 Piezas con 4 niveles de un mismo aprendizaje:
+un bloque sería "voy a enseñar la canción de makerule" divido en 4 niveles ese bloque, por ejemplo para los chiquitos la intro, para los mas tesitos otra parte.
+Menos 1 en 4 niveles y esas ocho piezas deben
+
+Diseño de formación de formadores, profesores de música primera infancia, nivel 2 primera infancia y colegio, y tercer nivel profesores de música (8 sessiones) # Tita
 
-Desarrollo:
-* Desarrollo
-  * Etapas de desarrollo anterior a este product
-    * sistematizacion ontologica de participación en línea
-	* Tipificación de datos
-	* Levantamiento de Endpoint SparQl
-	* Analisis iniciales, Modelos
-  * Etapas de desarrollo
-    * Reuniones con equipo
-	* Estudios de profundizacón y maduramiento
-	* Texto
-	* Especificación de la API
-	* Implementación  del servicio para adquisición de datos, procesamiento y entrega en JSON
-	* Rutinas en IPython Notebook
-	* Propuesta de Implementación
-  * Justificación del método
-  * Justificación de las fuentes
-  * Confrontación entre los resultados esperados y los alcanzados
+
 
-* Uso de resultados
-* Conclusión
-  * Comentarios, sugerencias, recomendaciones
-  * Impacto de producto para elaboración de políticas de ..
-  * Como el producto deberá  impactar el público
 
+Eje Musical 	Formato Instrumental	Nivel	Contenidos
+Ritmo - Percutivo	Ritmo - Armónico	Ritmo-Melódico	Gramatical (Síntesis Gráfica)	Elementos Improvisatorios	Desarrollo De Habilidades Y Competencias
 
-luis pezeti referente pagina
-utilidades .. links recomendados
+Nuceo temáticos
+  - Ensamblar
+  - Mi rol
 
-la forma mas util para navegar el sitio
-incribirse como grupo
-profes
-alumnos
+Ciclos (elementos compositivos 2 meses)
+  - Rítmico ( 2 meses en cada clase por ejemplo galopeo, silencio, anacrusa)
+  - Melódico
+  - Armónico
 
-audio? y que es esto? a que te suena?  puntos
-referente haskell codecadmy
+Äreas
+  -
+  -
+Asignaturas
+  -
 
-reforzar medellin vive la música  usar la interacción para comunicar (ocasional)
+-claudia  Necesito llegar aca: en esta clase debo aprender tresillo, etc etc, que herramientas tengo y como resuelvo problemas.
+construir una estructura de clase y herramientas de clase
 
-de lo virtual sale un nodo adicional
+## URGENTE
+- identificamos la falta de claridad en el pensum.
+- Herramienta para organizar horarios
+- como actuamos con vacaciones? clase para papas, talleres, juegos
 
-treceavo nodo
+# AGENDA
+- Marce nos orienta
+- Fede muestra el wiki
+- Fer y Claudia presentan Repertorio
+- Tatiana presenta horarios
 
-streamming
 
-evaluar que se necesitaría para continuara en el tiempo entrega de la alcaldía .. gestión
+## entregables
+8 tutoriales 4 de método
+22 conciertos
+# Empezamos
+nosotros internamente empezamos 3 de mayo
+lunes 4 de mayo reunión administrativa
+martes 5 mayo reunión pedagógica
+clases del 18 de mayo al 15
+jueves ensayos generales 2 horas uepaje 2 horas pedagogía
+
+# TATIANA
+try Idear maneras de tomar la asistencia
+exec Estandarizar nombre y nodo en hoja de asistencia
+exec que puntos cuidar entre nodos y alumnos entre cada relación
+try usar los monitores de alfabetización casa de la cultura #jose
+# Ir haciendo
+- exec ir montando la estructura de la escuelas
+-- Manuales de Funciones
+-- Manuales de Procedimientos (relaciones padres de familia, administrativo niños)
+-- Funcionalidad de las instalaciones (muñequero, tienda)
+-- Repertorios
+-- ¿Cómo capacitar los talentos?
+-- Publicaciones/material didáctico  (Que tipo de publicaciones y con qué finalidad)
+- exec que es, para quien y que se ofrece (hoy)
+- exec Hacer requerimientos acústicos (documento)
+- exec(30%) definir y montar Repertorios
+- exec modelo escuelas de m[usica ] > Materiales *repertorio * talleres de capacitación con el  un modelo no puede ser solo escrito debe ir con publicaciones y materialesque eso lo amarra y lo protege: libro con lápices que sirven de baquetas, la argolla de raspa, radiografia.  3 libros, libro-instrumento
+- def Libros escolares, se puede citar hasta el 10% del contenido de otro libro
+- def escuela virtual
+- exec posibilidades de hacer un diplomado (educación musical, ) Requisitos, Quien lo valida (semipresencial, presencial), Diplomado de composición de música popular, IDI Investigacion, Desarrollo, Innovación, llevandolo a modelos de negocio, con martica, Produccion de Causas (estilo de vida, nuevos valores) quizá la Colegiatura
+- exec LASO se acabo, la USM no representa el sector
+- def  todo el mundo tiene equivocado lo que es un modelo, lo escriben en papel, toda la gente esta haciendo un modelo, el modelo es importante como estructura de conocimiento pero el modelo, pero lo que vende son las herramientas didácticas-
+- exec compositores semanal los profes
+Para ellos un modelo es los "como" no los "que" los "paraque",
+Waldorf tiene todo los elementos es muy estricto y respladan los materiales
+El modelo suma experiencia de aplicación
 
-que el alumno se vea
-que el profesor califique
+-Modelos:
+-buen comienzo : Movimiento incorpora el hacer corporal, pues su cuerpo , no es la letra como esta, dee acompañar la adquiosicion del lenguaje, las canciones deben tener "cak" "cuk" "tis", se enseña a ser parte de un todo, ensamble, bases de ensamble, uno hace pin otro hace pun elio sinquiquisqui bater el pie bater pie bater el pie sin parar
+#tarea : diseñar un repertorio para esto
 
+--Coros colegios: Manual de "a coro" la escuela es la que le debe dar la oportunidad de acercase a los niños al hacer musical, juegos de palmas, juegos de manos, el cuerpo como instrumento, cancion como estructura, inicia 2a voz, 3a voz, 4a voz
+exec => estudiar el libro a coro
 
-llevar compu a los nodos y mostrar su perfil 
+--Nodos: ensambles grupales brasileros y Josh, hay un esfuerzo para ir a los nodos, atender e integrar las búsquedas para que se ensamblen, desarrollar herramientas para integrar cosas raras, el nodo es lo vocacional se va voluntariamente,
+exec => Enculturacion musical, entrenamiento musical,
+Eculturacion lo que se puede nutrir nutrir al individuo
+Entrenamiento musical-- Habilidades Generativas! habilidades que permiten el desarrollo de otras habilidades, mediante la composición se desarrollen otras habilidades creativas
 
+apoyo a crear escuelas de música privadas
 
-bienvenido al mundo
+exec => menos unos con el nuevo repertorio (buencomienzo, primaria) sacar repertorio distinto a cantoalegre
+Brindemos por la vida
+Sea feliz
+Love is the only way
+La casa es suya
 
-grupos_?  genero integrantes,
-profesores? donde das clases?
+wa  xkL warwrux sw k  OJO la estetica de la clase viene de las canciones argentinas los brasileros toman mas riesgos, son conductista hacer menos conductista, palaVra cantada mejor grupo de musica infantil
 
-listado de niños con datos específicos
-papa mama, tipo de sangre,
-forma de contactarlo
+exec => cuanto le vale a un colegio el profesor de música,
 
-sale listas:
+def: maestros de escuela, outorcing programacion clase bus con computadores, clase de sistemas, deportes y música
 
-el profesor tenga comunicación con los alumnos
+--
 
-clasificar tipos de comunicacion
+Productos: Herramientas didácticas, Diplomados
 
-Profesor - alumno
-profesor - alumnos
-coomunicarme con todo el nodo
-comunicarme con todos los alumnos de canecas de todos los nodos
-a medellin vive la musica
+Construcción de Modelo
 
-m+inimo numero de palabras para decir lo que tenga que decir.
+Proceso Gestión
 
-perfil a profesores! :)
+# Datos
+- Pro musica del rosario
+- violeta
+- Rita del prado y el duo karma
 
-que gente esta haciendo eso?
-referentes .. a quien seguir
 
-afinal de año todos los alumnos de los nodos inscritos
+# mirar
+Google drive de Fer
 
+# Importantes sin nombre
+- lo que hacía brolin
+- lo que hacía Camilo Suarez (altavoz)
 
-Condensou assim, são 3 partes:
-*) Dashboards para cada entidade, tanto da coleção quanto da instância:
-[(letras,letra_i),
-(palavras,{palavra_i}),
-(comentários,{comentario_i},
-(postagens,{postagem_i}
-...
-(portais, {portal_i}]
-(participantes,{participante_i}),
-tudo]
+# Medellin Vive la muisca
+formacion Infraestructura Proyeccion emprendimiento
 
-Cada item tem um dashboard, fruto de uma análise para caracterizar as incidências
-numericamente. Cada comentário tem uma análise/dashboard (em cada URI individual de preferência).
-A coleção de todos os comentários ("comentários") também possuem uma análise/dashboad.
-Este pareamento de indivíduos (certa palavra, certo comentário), só quebra com o dashboard/análise
-de todo o universo considerado, pois a instância é única e é a coleção.
+cantoalegre formacion Metodología primero infancia formacion formadores Nodos
 
-*) Todo recurso/dashboard pode ser usado para recomendação de outros recursos, via métodos
-variados para similaridade e não similaridade.
+componene forrmacion formadores con diplomado
 
+Circulacion: Festival vive la musica, festicamara(conciertos y formaciòn, ensayos abiertos, conversatorios)
+Emprendimiento con david escobar, Interactuar
+- Si tenemos requerimientos de formacion de formadores (se recomienda y ellos lo asumen)
+- Con los LASO se haran cosas con los que no pasaron a Altavoz
+- Pilar posada puede ayudar con formación de Grupos
+- Puedo ayudar en la formacion de grupos de Altavoz
+- acompañamiento a procesos de formación de profesores de colegios (a travez de diplomado)
+- conectar a david de Interactuar con brolin para mapear buscar documento del sena 2008 el dato lo tiene Fer Franco
 
 
-10 Septiembre
+# Grupos de proyección
+- Grabar los ensayos y usar lo que aprendimos la vez pasada con grupos de Altavoz
+- Estudiantina, batulata, afro-colombiano, Pacuprá, Ensamble Electrónico.
+4 toques cada uno y 2 de ensamble completo
 
-Fer: vienen unos artistas para octubre, podíamos hacer talleres.
-viene el de Brasil, máximo treinta cupos
 
-Formadores= ------------------------
-1nivel : danzas ciculares, orff, ensambles, juegos corporales, circulo motricidad, coordinacion, cuadratura, improvisación
-2nivel : lacide romero, ferFranco, Raul 
+# Comunicaciones a travez de marce
+Ronald Castañeda
+- Activaciones
+- Promoción en campo
 
+# Cronograma
+** 6 al 11 de abril
+A. Inicio de convocatoria participantes del 2014 en cada una de las sedes de Casas de la Cultura.
 
-movimiento coral en las escuelas para jornada complementaria
+B. Reuniones y concertación de horarios en I.E y Buen Comienzo.
 
-#contratación
-hibridos como tomas para inicicación y electrónica
+C. Se podría hacer durante este tiempo la capacitación de docentes
 
+//:: ::::// Expectativa en comunicaciones: promo, volantes, afiches desde la coordinación de comunicaciones de MVLM de ALCALDÍA.
 
-#formación 
-posible ciclo formación de producción
-  Producción ejecutiva
-  Producción Técnica
-  Producción Artística
+** 13 al 17 de abril:
 
-# creativo
-con lo que hay .. como hacemos un repertorio
-con los chicos siempre repertorio
-repertorio para clase
-repertorio para escuela
-repertorio para MVLM
+A. Semana de inscripciones nuevos participantes a través de línea única Alcaldía y Portal del programa.
 
-ensayo jueves 7:00 am
+​B. Audiciones en I.E
 
+// :::::/// Posiblemente se programe rueda del prensa con el Alcalde para dar inicio a la convocatorias y presentación del proceso de formación en primera infancia.
 
+**​ 20 al 24 de abril:
 
-#ORF '''''''''
-consebir el cuerpo con 4 alturas
-soprano dedis
-contraltos  palmas
-tenores muslos
-bajos pies 
+A. Inicio del proceso de formación ​en nodos
 
-#Valores
-Respesto
-Prudencia
-Flexibilidad
-Responsabilidad
-No merecimiento
-Proactivo 
+B. Inicio del programa de Escuela de Formadores
+Se debe definir intensidad, horarios y cantidad de grupos para la cobertura ( 80 participantes todo el año)
 
- Lupa
 
-Motores rítmicos
+2. Los nodos de este año en equipamientos de la SCC serán:
 
-Septiembre 3
+Centro de Desarrollo Cultural Los Colores
+Teatro al Aire Libre Pedregal
+Casa de la Cultura Ávila
+Casa de la Cultura de Manrique
+Casa de la Cultura Los Alcázares
+Casa de la Cultura del Poblado ** NUEVO
 
+3. El público de estos nodos continúa como el año pasado, es decir en promedio de 6 a 12 años. // Se utilizan los instrumentos adquiridos en el marco del programa // Se debe entergar detalle de intensidad horaria y nombres de las clases para la difusión el público nuevo por parte de la coordinación de cada equipamiento.
 
-para la feria vamos con dos 
-programar sessiones donde se entregue el libro tocando
+En estos espacios no se atiende nada de primera infancia pues no están adecuados para tales propósitos.
 
-fer: algo montado, algo tocado tipo clase, espontáneo
+4. El público de jornada complementaria va hasta 4 o 5 de primaria como hemos hablado.
 
-musica corriente: proceso de formación, producción, altavoz
+5. El grupo de Emberás de Pedregal continuará en Ávila pero buscan ampliar su proceso de acompañamiento con la UdeA e inclusión Social.
 
-que nos hace falta en percusiones urbanas
+Nos vemos el martes a las 9 a.m. que tengan buen fin de semana.
 
-Pedagogía= por un lado tarjetas con notas por otro lado punchis
 
-Filosofía= ///////////
-Carlos: preocupaciòn ¿formaciòn avanzada?
-con la red de danza cuando hay alguien con habilidades especiales
-nostalgia en la ciudad por la epa
-donde se ubica alguien con ganas de avanzar
-el gran reto del proyecto es pensar macro, mirada de conjunto, determinar que hay componentes que falta fortalecer
-me preocupa no ofrece alternativas en la profesionalizaciòn
 
-Trabajamos a ciegas No hay cifras, debemos cuestionarnos 
-Observatorio que les de herramientas aprender de las escalas, la mora, rentable .. masterizar
 
-tita  forma de agremiar y contratar profesores de mùsica
+#Formación de formadores
+12 talleres dirijidos por pilar con profes internos para los profes internos y publico específico
+80 profesores
+primera semana, semana media, y semana santa final
+Nichos:
+- formadores internos Red+ nosotros,
+- colegios,
+- Directores de grupos de colegio
+- directores de grupos de proyección
 
-comunicar desarrollo humando por medio de la mùsica
 
-referente kung fu
+Viernes de 9 a 1 Jornadas
+Empezaría segunda semana de Abril
+Semana entrante capacitación profesores
+´''''''
+def Perfiles administrativos para una escuela de música (gonzalo, ledis, secretaria)
+exec Manuales de funciones y procesos
+try cada lider de destreza va a ayudar a formar a los profes más débiles en esa área
 
-ojo con hacer el cluster de la alcaldìa .. no el cluster de la ciudad  tiene mucho que ver con el modelo de como se gestione 
+Urgente terminar Tutoriales Electrónica
 
-esta clara la teorìa falta la pràctica
+Se inicia planeación 16
+Cambio de dirección hacia primera infancia-entregar procesos
+mas visualización de sus procesos
+Jose coordinar los nodos
+Laboratorio y prácticas
 
-### ojo con dejar unos elementos tan importantes que se demostrò que era como lo planteamos para que el programa tenga relevancia polìtica.
+Areas:
+Primera infancia: Adri, Ligia(directores)
+Jornadas complementarias: Claudia
+Nodos: Jose (Director) Profe Productor (Eider) - Nodos avanzados Batulata (Moravia) Ciudad frecuencia
+Escuela de formadores: Pili
 
-Para que estoy tocando instrumento?   el instrumento es el vehiculo para acercarme al entorno 
+20 eventos de proyección
+2 de gran ensamble
 
-#Areas 
+buen comienso se va 4 veces y dura 2 horas
+8 colegios tres veces y dura 4 horas y se debe cumplir con 60 alumnos
+Nodos ir 4 horas tres veces a la semana? o tres horas cuatro veces, eso depende de la convocatoria si hay mucha gente puede ser 4 horas en el mismo nodo, sino
+Nodos deben responder por 300-360 alumnos, promedio de alumnos por nodo 60
 
-###diferencias con la red
-Ritmico corporal
-Ritmico percutivo
-Ritmico armònico
-Nuevas poèticas 
+Contenidos:
+Nodos: estudiantina, grupo de gaitas, orquesta tropical
 
-bases conceptuales 
- desarrollo del ser humano
- construcciòn de valores
+Dirección Estratégica: Hacer visible los procesos, de acuerdo a nuestros valores y dejar una ruta para los que siguen.
 
-Componentesç
+Directores: gerencia de área,
 
-Formacion
-Desarrollo creativo
-circulaciòn
-investigaciòn
-producciòn
-organizacional
+crear recursos pedagógicos para poder montar el mismo repertorio en todos los grupos, tener los menos 1
 
-24 horas paquete 1'200.000
+Nodos:
+Horas, Personaje
+12 Leo
+12 Eider
+24 Esteban
+12 Pedro
+8 MaClara
+4 Cony
+8 Pollo
+8 Jeimi
+8 tomas
 
+Se perdió el rigor de fraccionar el tiempo, clase de lectura, otra de guitarra, otra de ensamble, no dejarlo al libre albedrío del profesor.
 
+exec EScuela ORFF
+exec EScuela Dalcoss Ritmico corporal!
 
 
 
+persona que entienda la música en la escuela, experiencia en escuela de pedagogía musical en chiquitos
+- hora cátedra
 
-# 20 agosto 
-comite pedagógico
+Tento que entregar
+- Documentacion procesos
+- Implementación instrumento mínimo
+- Generacion de datos
+- Informe mensual
+- Talleres de música electrónica
 
-DO=Miércoles entrante traer propuestas para el libro anglo, jazz, cine, blues, musica películas, pop, bob marley, balada norteamericana, rock inglés, 
 
-DEF= libro de fer con ritmos
-DEF= hay ritmos y especies : ritmo bambuco
+Buen comienzo
+Voz + Apoyo armónico (piano1 + piano2  pasantía)
+Que los alumnos reciban 4 horas de la semana
+8 nodos * 50 alimnos por nodo (2 grupos de 25 y se mezclan)
+8 colegios (coro, o ver que tiene el colegio grupos, tunas)
+8 cursos de 2'400.000'(hora cátedra)
 
-DO= cada uno trae grafías que les guste
-DO= Repertorio de motores rítmicos de música electrónica.
-DO= profundizar los documentos de casa de experimentos
-DO= cursos para urbanos (posibles materias) consultar con ellos
+def Incorporar tema primera infancia desde la programación?
 
-DATE=Laboratorio fiesta buen comienzo electrónica, con Explora
 
-DO= Seleccionar mejores alumnos para tocar en ensambles
+--- Colegios hasta 10 años
 
-DO= Buscar productor de HipHop para venir a hacer Taller
+gran ensambe de niños coros, palmas y artefactos,
+coro
 
-NOTE= Taller Juan Jose Arango
+Alejo pinilla, pollo, cony, laura.
 
-DO= buscar padrino del área hip hop para semana escolar
 
-DO= sacarle el jugo a los que contrataron
+repr super
 
-IDEA= Infografías de los principios filosóficos
+No hablar de casas sino de cluster
 
-# 19 de agosto
 
-# HORARIO 
-DO=Miercoles en la mañana pipe esteban con los de Altavoz
 
 
+# reu marce
+ver la experiencia completa, de la llegada
+poder volver las reuniones conceptuales en elementos usables
+transitar los conceptos pedagógicos a : estructura de clase, hilo temático, herramientas didácticas.
 
-## fer 
-Constantes y variables
---estrucuturas
-repeticion por seccion (cancion rondo, lid, )
-repetici[on por variación (por patrones, temas con variación)
-rep por transformación temática (mismo motivo con diferente personalidad o expresión)
-rep por tratamiento contrapuntistica (discurso horizontal muchas líneas al tiempo)
-rep por desarrollo temático (sonata)
+Comunicaciones:
+- Que estamos comunicando?
 
-#musica mentronómicas +  música+ cronométricas + aleatorias + probabilisticas +azaristicas
+Profes:
+- Faltas, incumplimientos.
+- Conflictos
+- Talento para crear vs. talento para enseñar
+- Responsabilidad
+Capacitar en entender que hacemos parte de un proceso público
 
-profes 
-pedro en los colores laboratorio
-pipe + esteban apoyo en altavoz
+Experimentos:
+- Brolin
 
-OJO gestion compararnos con La Red
 
++++++++++++++++++++++++
+2015
+++++++++++++++++++++++
 
-temas
-- galeria #lukas hace albumes
-- Twitter ##eli
-- Diferencias red ( # pendientes de comunicacadora Red ##?)
--- Desarrollo de la creatividad. Aprender Creando
--- Musicalidad
--- Investigación
 
-Red
--- Tocar, aprender tocando
 
-    - Metro ( #no amplificamos política ##eli)
-- In'situ'
-- Escuela de formadores (quien va a dar que? #fechas sonido ##milena)
-- Coordinar USM  # pedir reporte caso jos ##estefa
-- Explora 
-- No se ve una línea del tema urbano (canecas, vs rap en el imaginario)
-- categorizar #hashtags en comunicaciones #abrir twitter ## eli
-- información que ellos nos van a dar de profes?
-- # un gráfico que describa medellín vive la música y sus componentes
-- # texto que introduce los libros
-- # para vicealcaldía formación de formadores es prioridad.  Nos valea X niño y nos vale a X maestro
-- # Consejo de música tiene mapeo de gente que trabaja en formación musical
-- # Cerrar agosto con buena base de datos de profesores para iniciar comunicaciones en septiembre ## USM # Estefa
-- # error 24 años error #eli
-- # los colores    nodo principal
- hasta 18 escolarizados 
-18 -24 proyección y formación de formadores
-0 a 8 proyeccion 
-- # Numeros de explora
 
-Música Populares
-casa de experimentos
+-------------
+Dic 1
+--------------
+Quienes acogieron la metodología, y se veía totalmente ensamblado versus los que montaron algo para la muestra a lo último
+Ensamble y repertorio como punto de partida!
+Aaron cooplan "la creacion tiene dos enemigos, la carencia de ideas o la superabundancia de ideas"
+Desarrollo creativo en las propuestas
+Estamos sembrando inquietudes, no aprenderse de memoria las cosas.reu marce
 
+Trabajamos con un elemento muy importante "la Emoción" la emoción de tocar un instrumento, de usar un aparato
 
-Formación (escolarizados)
-                         Proyección (grupos constituidos, y casas de música puede apoyar programa de altavoz, talleres específicos de formatos instrumentos, ténicas, talleres de producción sonido puestas en escena)
-Formación de formadores
-- # Datos grupos que no pasaron Altavoz ## carlos guisao
-- # montar cancionero y usar eldominio de yovivo la música, 1 septiempre portal educactivo de yo vivo la música.  
-- # pasar el equipo de yo vivo la música
-- # urgente hacer sitio yo vivo la música
+La puntualidad en los colores comentaron
 
+Viernes 5 7pm
 
-sem1 2   3    4
-84  281 428  684  
-podríamos atender 1060
 
+----------
+27 nov
+-------------
+En conversación amena con Cesar el día de ayer quisiera dejar visibles los siguientes islotes:
+  * En algunos ramas del proyecto "música para la paz"  cesar lee colapso, del que se puede aprender.
+  * Positivo el trabajo con los profes de la Red donde, a partir de los testimonios de líderes,  se recomendos intervenir en más la parte humana y de comunidad, en igualmente con las bandas de Altavoz.
 
 
+  * Queda la questión de como hacemos que estos líderes en sus particularidades y el colectivo puedan alinearse de manera mas unificada con MVLM.
 
+---
+ Tareas:
+   * Tratar de buscar las memorias de los logros con la Red y Altavoz (relatoría?, grabación?)
 
 
 
 
+- problemas como egos
+- colectivo de colectivos cada uno tiene su visión de como intervenir, con miedos inseguridades conceptuales, debilidades académicas, enjambre político, el trabajo ha sido muy difícil.
 
-# 13 de agosto
-cadaves que cantamos vamosa improvisar
-gestos, parte notas parte palabras, 
-la sol sale caracol si la ah llovido ya
-   busca su comida 
-la sol fa contento se va
-combinar actos, toque, gestos, improvisacion, cantar tocar instrumento, un actor, hay presentación
+- Hay memoria de esos dos logros?
 
-ritmo melodía movimento, comunidad, presentación.
+a nivel personal le queda una preocupación, se demuestra una ves más el poder de la música sin retóricas
 
-Notas, Letras, gestos, canto, toque, inprovisación por grupos y tutti
+el objetivo era sistematizar como puedes usar la música para desarrollar una causa, o sistematizar.
 
-empieza melodía
+ojo con intrsumentalizar el arte para cambio social, es un tiro al aire
 
-sorpresa con la letra
-que es ese sonido que pasa por ahi 
-seran los pajaritos que cantan por ahi
-seran remolineros que cantan para ti
-seran las mascaradas que pasan para ti
-seran           
-seran los pequeñotos jugando por aquí.
+objetivo observar esos fenomenos, que hay bueno que hay malo, para un documento que se le dice a la ciudad como hacerlo con pasos
 
+pasos para intervenir en su colegio ABCD
+quiere que perdure en el tiempo ABCS
+sacarlo del territorio de la especulación  de que es la panacea
 
-arriba la voz octaca
-octava abajo
-de arriba a abajo
-de abajo a arriba?
+producsamos conocimiento a base de nuestros errores y conocimientos, y veamos que funciono y que fracasó.
 
-Enseñar todo a todos !  que todos pueden sacar provecho
-rodillas palmas rodillas palmas 
-r r r p
+poner en duda ese eslogan de "un niño con un instrumento no tiene un arma"
+mas que un colectivo de soluciones era un colectivo que questiona...y salgamos a la calle a comprobarlo .. a medirlo.
+cuales son los ingredientes que debe tener un ejercicio como se une la gente alrededor de eso .. dejar afuera cosas como contratos personales con la alcaldía, problemas personales con otro elemento,, que ingredientes tiene que tener un colectivo para que funcione y para que sus intervenciones sen exitosas..
 
-r p r p 
-r r r p
+En una reu preguntaron ?porque escogieron a los que escogieron?  quienes son ? con que criterios?   algunos venían por estrategia.
 
-para contar
+despues de ese encuentro, se plantea un documento, pero la alcaldía no podía avalar el grupo como los que más sabía entonces decidieron ponerlo en un escenario de lo real, quitandole lo pomposo del super grupo.
 
-1  2   3    4 
-a ten cion y:
-va mos ya  y:
+funciono el testimonioindividual para mostrarle a otros colectivos, que habían ideas diferentes, trabajo social, y pluralidad de manera de hacerla.
 
-No olvidar que podemos tocar suave el instrumento también (y se toca la cabeza)
-y ahora yo debo decir que no fue bueno
-es un grupo no se tiene que expresar todo el tiempo, puede hacer espacios para los otros 
+manera operativa .. poner en la mesa a hablar darle voz a esas personas ante un grupo seleccionado.  los pelaos se nutren de esos testimonos
+se pdría separar los que dan testimonios a los que hacen la estrategia
 
-van muy bien felicidades, pueden hacer muchas cosas al mismo tiempo
+un miedo terrible a ser evaluados, a que se cuestione su método su capacidad artística.
 
-un extra especialmente para uds.
-hace un truco con la resolución de la frase y cruza los doedos.
 
-maripos decolores mariposa de jardin
-vuela y vuela entre las rosas y los ramos de jazmin
+---------
+25Nov
+---------
+Niños trabajo vocal en todos los nodos
 
-divide el grupo en tres 
-dos haces ahhh con diferentes volumentes y un grupo improvisa la melodía y el ritmo 
-"que bien musica moderna"
-luego la canta
 
-resignificar 
-decir "muy dificil" a algo fácil
-no decir nada a lo difícil
+balance año y proyección alcance Cuantitativo
+Logros, Dificultados, Acciones de mejora, Proyección
+dejar modelo de gestión
+11.5 meses
 
-librillo, ahora vamos a la pagina 45
+---------
+24 Nov
+---------
+dividir la escula y recreativo.. la escuela mas exigente
+ojo con la familia es el pilar fundamental
+estructurar contacto con las familias
+coordinador de nodos
+Nos interesa que el niño conosca muchos tipos de instrumentos
+quitar imaginario generos
+quitar imaginario que a veces puedo ir y a veces no
+tratar de recuperar el acústico
+audición
 
-explica rondo  teoría
+Martes.
+Belen electrónica : Consola
 
-refiriendose a sí mimso "El profesor va a enseñar el estribillo"  dandose golpes de pecho
+Miércoles.
+Alcazares: Gaita, tambora, ukelele, guitarra,  35 guitarras
+Los Colores en la mañana: 6 micrófonos
+Avila: Amplificación
 
-primer día la imitación
-segundo día pregunta-respuesta  manera de aprender a improvisar
-tercer día rondo (bastante tiempo para improvisar) se puede improvisar con el cuerpo, melodía, ritmica
-siempre la cuadratura de la forma
+Jueves:
+La Ladera: Sonido cantoalegre 8 micrófonos
+Los Colores: 8 micros + sonidistas
 
-"sera posible imitarme?"
+Viernes>
+Nuestra Gente> Amplificación + 16 micrófonoa
+UVA Esperanza (25 niños) Consola + micrófonos + sonidista
+UVA Los Sueños Aire Libre (20 alumnos) + Amplificación
 
-el silencio lo hace con sh!
+Lunes 1 de dic
+Manrique: 30niños Amplificación
 
-es importante utilizar obstinato es una formula que se repite sin cesar, cuando conocen este obstinato conocen toda la pieza.
+Martes 2 de dic
+Pedregal:  Amplificación
+12 de octubre: + Sonidista + micröfonos
 
-dos grupos  a ritmo pricipal b obstinato
-a b
-la segunda vez inverso
-b a
 
-primera manera con percusión corpral
-luego verbal 
-dice el refrán
-Da da da da du  diva de bu ba ye ye ye!
-.  .  .     .   . 
+---------
+12 Nov
+---------
+Escuela de belen rincón taller de lutier
+Pedagogías dialogantes (una pedagogía aprende de otra)
+Todos los niños tener un papel .. y no siempre el mismo papel
+Se confunde pedagogía, con didactica, metodología
+Pedagogía es mas filosófica y tiene principios, es un pensamiento general que rige.
 
-luego enloquece las alturas
-y saca el obstinado
-da.. da dividividi!
+Didácticas y método son herramientas
 
-es mas interesante inprovisaciones de pequeños grupos para tener colores diferentes
+----------
+10 de nov
+----------
+Proximo año se divide
+Pop'rock[{
+tropicales'jazz : ateneder población colegios musica tropical
 
-cuanto es 
-TA TA  son dos tiempos fuertes
-TA ra  es fuerte y debil el ra ayuda a entender el tiempo débil
+tener coro en los nodos, planear, en el repertorio .. así sea unísono, ritmicas con la voz
 
-para las inprovisaciones muchos silencio pues hay otras personas tocando
+- Se puede integrar procesos existentes  que aporten a agrupaciones integradas y agrupaciones de fortalecimeintos..ensambles por eje, y ensambles interejes
 
-forma útil 
-A b A c A d A e A f
+- secuenciación educación jhonny lmms podría circular por todos los nodos
 
-luego hace rondo vocal
-empieza con vocales, luego le mete zu zu gru ttsuu  como consonantes
-divide voces hombres mujer
-improvisación mujer, hombre
-ojo al improvisar .. cuadratura y movimiento
-luego los pone de pie y poco de movimento
+- llevar el instrumento mínimo y dejar chicos capacitados
+- Tonalidad de las obras
 
-luego rondo con percusión de altura determinada (xilofonos, metalófonos, superficies)
-pentatonica 
-fa sol la do re fa 
-alternar manos
+Cronograma de nodos:
+Viernes 14 Nov 3pm 6pm def Explora
+Martes 25 Nov 7pm def PqueBibliotecaBelen
+Miércoles 26 de nov 6pm def Avila  dos cuadras del parque de la milagrosa Eider
+Miércoles 26 7pm def LaLadera HipHop
+Miércoles 26 de nov 10am def losColores
+Jueves 27 Nov 6pm def losColores Eider y Pedro, Nico
+Jueves 27 Nov 3pm  def LaLadera
+Viernes 28 Nov 6:30pm: def nuestra Gente (jornada miercoles y viernes) Yeime y Cony
+Viernes 28 Nov 3pm def UVAEsperanza
+Viernes 28 nov 3pm def UVASueños
+Sábado 29 Nov  3pm: def Pedregal (teatro aire libre)
+Sábado 29 Nov 5pm: def 12deOctubre Entrada
+Lunes 1 de diciembre: def Casa de la cultura Manrique: ensamble guitarras 6pm Daniel y Eider
 
-fa sol la do     re    fa 
-fa sol la do     re   fa 
-fa sol la do     re    fa 
-re do  la sol fa
+Que necesito y que tengo
 
-"primero el profesor explica el profesor muestra"
+Jueves: staff
+produción
+horarios
 
-pequeñs unidades cuadratura que ensamblan bien juntas
+Charla
+- Control de tiempo
+- Escenografía
+- Prueba de sonido
+- Rider
+- ContraRider
+- Registro
 
+Cuadro de repertorios se transitan las destrezas
 
 
-## 12 de agosto
-cambiar mi.medellin
-main cambiar a 5 eventos y luego ver todos los eventos
-cambiar a forma de calendario cuando sale  todos los eventos, 
+Profes:
+Dany:  r:insumos
+Johny P: F: armonia R: ninguna
+Brolin:P: informe formadores, nodo experimental R:asistencias
+esteban P:crecio asistencia,entrenaron algoritmos F: herramientas tocar en vivo R: asistencia
+Pedro: P: proyecto tiburon
 
-## 4 d agosto
-def Inquitudes pedagógicas
-  Proyecto
-  
+Eider: P: Coordinando clas final, clase con emberá katios Pesadito F: consolidando repertorios R: Inasistencias cosas de familia .. Lunes festivos?
 
+Ana: P:Fundación EPM grabacion coros, R: Alcazares menos asistencia
+Alejo: F: esquema de presentación
+Mauro: P:Ensayo grupo grande, estructurar partituras Rock R:Instrumental ensayo, profesores que no llegaron
+Marce: R:Menos asistencia de los grandes
+yeimi
+eider
+alex (gafas tambora)
+bebe
+yeison
 
-def Esteticas contenidos musicales
-  Timbre
 
-def Socioafectivo
-  
+-----------
+29 octubre
+-----------
+Temas 27 de Octubre
+- Montaje fin de año (la bola, sea feliz, brindo por la vida) #t
+- cocorobé - maquerule y la bola #t
+- grabar la bola para tutorial
+- Ensamble profesores
+- Ensamble alumnos
+- Giro rápido
 
-def Administrativos
-  Informe por nodo
-  Empalmar lo que queda volando de presupuesto participativo a travez de casas de la cultura, se contrata por horas los que lo vienen haciendo
-  En los colores *cuerdas* *electrónico* *grupos*
+20 de octubre
 
-exec quitar urnas, pedro manda asistencia a chicas /brolin=informe cada nodo como se comporto en las tres semanas, /admin=sos con la ladera, /todos=no mas activaciones
-/todos=multa para el que no tenga /todos=No saltarse a milena en relación con nodos, ojo con compromisos que se adquieren por comunicaciones
+-Tutoriales
+-Métodos
+el contrato era de 40 páginas
+hay un cambio .. estamos haciendo libro de 80 hojas, era a manera de cartillas para el alumno
 
+Modos homónimos y modos relativos
 
-def Formacion de formadores va a ser siempre en la casa de la música, concentrarnos en los niños, aumentar la permanencia de niños entre 2 y cuatro horas que asista a varias materias /todos=reglamentos de convivencia de los nodos
- fuera de PP entramos a reforzar procesos sociales con la parte social
+segmentar volumen 1 volumen 2
 
-while miercoles reunión consejo música, jeisme repr cantoarena
-"proyecto formativo en música para niños en temprana edad" 
+Fer:
 
-Inaguración fiesta del libro "Fronteras"
+-fin de año
+- Evaluación de participación del ensamble
+-- dinamica interna: director titular, director asistente, director auxiliar
+-- gran ensamble persona en el centro: si hay desacuerdo se habla después no interrumpe el ensayo
+-- Jefe de fila, jefe de sección,
+-- toda duda debe ser canalizada por los jefes de equipo, si cortar la actividad.
+.. electrónicas: pedro , Urbanas: Nico, PRJ: Mauro, Tradicional: Jose, Coral:
+.. ensayo es ensayo se buscan reemplazos etc
+.. practica coral para el otro año
+La dirección no solo es funciones artísticas sino funciones administrativas y técnicas
+-- necesitamos un stage manager, roadies, stage hands
+2.5min 5mins 7.5mins
+-- presentaciones didácticas de 10 mins
+los ensayos los jueves: sonamos juntos, nos separamos, luego nos juntamos de nuevo
+el tiempo psicológico, pensar en el que menos música sabe..
+"es tan complejo y difícil hacer una obra de 15 mins como de 30 seg"
+Utilero-Stage ! victor
+un narrador que oriente
+posiblemente el gnomo podría ser el MC
+-separar los espacios para cada ensamble
+-idea de canción rock "viento"
+- circular de semana final tercera semana de noviembre
 
-def Integrar ensambles integrar gramatica y teoría musical
-iniciar en ensamble abrirse a grupos y cerrar con ensamble
+#ac[ustica
+tita:
+Educación que atiende al ser en su totalidad
 
+El sentido mas lindo de la holistica es que el ser en su totalidad hace parte de otra totalidad.
 
-Tres formaciones 
-RitmoCorporal,
-  Laterialidades
- 
-RitmoPercutivo,
-  sicnronizacion
-  disociacion
+El desarrollo integral llego buscando eficiencia matemática,
+no tenía en cuenta el mapa emocional  inteligencias emocionales
+ajustar las chisgas
+producir bien
+cancione para eventos : pista:
+posbilemente terminar el año con la canción de macaco de brindemos por la vida
+la canción es la cancion
+o canciones muy buenas desconocidas o que tengan una letra con la que uno se pegue
+producción de voces con canecas
 
-RitmocoArmónico
-  formación sentido amrónico
-  herramientas para el desarrollo de cirulos armónicos!! exec
+- La de camilo (viento)
+- Love is the only way
+- Brindemos por la vida * posible canción final
+- Sea feliz Mariza montes
+- viento la del ensamble
 
-RitmicoMelódico
+que la canción diga lo que se quiere decir
 
+como vamos a hacer seleccion profes que criterios hacer unos perfiles, al menos dos énfasis , armónico rítmico
 
-se construyen pedagogías desde esos 4 aspectos, inspirados en las música tradicionales
+Propuestas de cada uno
+2.5 min y medio
+5
+7.5 mins
+que permitan ensamblarse en grandes ensambles o solos
 
-Elementos compositivos:
-  Duración / Ritmo
-  Altura / Melodía
-  Densidad / Armonía (superposicion de sonidos, convivencia de sonidos superpuestos para genera tejidos y texturas, densidades acórdica,)
-  Timbre / Color / Textura
-  Intensidad / Volumetria del sonido *la dinámica misma elemento expresivo*
-  Espacialidad / de donde vienen las fuentes sonoras, lejos cerca? adelante atrás? cerca lejos?
-  Transientes / la parte no estacionaria del sonido
+Sacar roles y describir sus destrezas
+Director pedagógico de área
+Productor artístico de ensamble
+Director Titular
+Director Asistente
+Director Auxiliar
+Conversador
+Transcriptor
 
-llevar esos valores al repertorio
-Generar material que se pueda traducir a estos elementos
 
-cada elemento como motor discursivo
+Fer
+HAcer la producción de 18 minutos audiovisual, documental
 
-Ejercicio de cromas 9 campanitas app
-
-exec Tarea:proximo lunes ejemplificar! 
-exec ensamble general quien y que partes
-
-
-
-
-
-## 23 julio 
-
-se aprobó el prensaje de eugene
-proximo libro discutir
-
-
-### comit comun Agosto 1 
-
-### Comit comunicaciones 22 julio
-
-Marce llama uno por uno a los directores de los nodos para confirmar horarios.
-en museo de la memoria no iniciemos curso, no tienen espacio, 
-promo
-
-sabes que medellin vive la musica llego y que puedes entrar a estudiar música, donde puedo estudiar música?
-yo  tengo xx años?  y yo si puedo? 
-
-tipo tal cual un dialogo
-perifoneo
-circular
-porqué no llegan los mails?
-vamos a empezar con buen comienzo 4 grupos de 20  aprox 250 niños
-el perfil de los formadores son los ex de la red, instituciones que estudian música, eafit, otra cosa son los cursos que traemos, que son los que estan dando clases, otro nivel
-dos grupos de formacion de formadores
-el curriculo lo hacemos juntos fer y tita
-tonalidad de los niños alrrededor de sol
-profesores de colegio
-directores de ensamble tipo coros y conjuntos
-directores y coro
-profesores de academias particulares
-profesores particulares
-estudiantes graduados de música que quieren ser profesores
-
-abrir prioritario 
-NODO guayabal
-NODO colores
-NODO alcazares tiene sede a tres cuadras
-NODO nuestra gente, tiene instrumentos
-
-###comité academico 17 de julio
-
-san cristobal niños de cantoalegre 
-viernes 12 de octubre 6pm 10pm activacion
-
-Nodos que les falta la vocción:
-
-pedregal fueron 30 personas, todos quierenguitarra
-
-alcazares: 
-
-gira de nodos dani 2014
-reemplazo casa gardeliana  dani L
-belen no hay canecas  .. nohay canecas
-
-Percusión a nuestra gente: viernes Nico
-
-
-MArce: fui a alzcaares, llegaron más niños 6 a 11años, 15 niños, fueron adultos a preguntar preguntaron por clases de ukelele, quieren gutrarra o flauta. cuadran muestra con percusion
-fui a UVA de los sueños  fueron 50 niños, por la mañana fueron 4
-en general le gusta lo de percusión, preguntan por guitarra
-
-Ana: fui martes 12 de octuvvre  de 20 a 25 años, por ahi 7 u 8 personas.
-era la primera clase, inicicacion, al fnaluna cancim. icimos un pequeño ensamble
-mañana exponer el proyecto 6pm
-URGENTE martes 6pm ir a exponer elproyecto, viernes a las 6pm esteban y johnny
-
-laura: fue con conny y beibi, el 12 de octubre el martes poca población,quieren guitarra, miercoles fui,os a los colores, poquita gente,  edades muy diversas 7 a 25, hay un problema de comunicacion con el horario
-
-no hay instrumentos
-
-
-Alejo pinill, estube en moravia no había nadie  esta cerado moravia, 
-coordinación con moravia
-
-
-
-fer expone tipos de pedagogía
-conductista
-social
-
-Jorge profundizara sobre políticas públicas
-
-Macro curriculo tiene que ver con el propósitos
-meso con objetivos generles
-micro objetivos específicos
-
-el jam de la familia con su grupito es un espacio de aprendizaje, dar herramientas para ese tipo de espacios
-
-
-## lunes21
-Hacer la pasada con el horario por día
-Dividimos dos cosas  1 lo operativo otro lo administrativo
-
-En la ladera podrían por la mañana?  
-hacer laboratorio en los colores tomarse los colores rock y experimentos
-
-no vamos a dar instrumentos específicos, estas semanas de inducción, estamos haciendo ensambles campaña de seducción, encarretarlos
-
-daniel: en alcazares se esta formando grupo de adultos
-
-magali: casa gardeliana se siguen inscrubiendo niños, 2 jornadas, fluye bien, 30 niños, en Nuestra GEnte: como 23 desde 5 años hasta los 22 años, los pelaos saben mucho, quizá fomación formadores : quieren piano, pedaggía, alguien de rock pop para fomar un grupo, se puede hacer ensambles||| nico puede hacer canecas nico va a ir el viernes un demo clase
-
-PIPE: nodos belen y guayabal: 10 a doce personas guayabal son mas tirando a adolecentes belen es mas tirando a juegos, 
-
-Tita: modificaciones se abre los colores con mucha fuerza va a ser casi sede de casas de música, los que no pasaron de altavoz
-pregunta de cada uno : es pertinentE? la edad que esta llegando soy bueno en esa edad?
-cambiemos la forma de comunicar eli ! ven y antójate estamos haciendo una inducción a las música populares, que tengan un abanico grande
-
-cada profe que nos diga : que necesito y que me sobra de profes
-
-
-Las instituciones deben tener espacios para el desarrollo creativo
-Pedagogías dialogantes, anfibias, desde lo academico a lo popular
-Escuela establece vínculos entre creatividad formación, permite la investigación activa, adoptaron la palabra "sabedores" para quitarse el peso de investigador
-No es impositiva la pedagogía es participativa, argumentativa.
-Autogestionaria ... evitar "yo hago esto porque no me dan más"
-
-La relación proceso producto, es lo que se necesita para llegar a una producción, para que estoy aprendiendo esto?
-Metodología de proyecto ej: ensamble basado en repertorios
-Nucleos temáticos  hacia allá vamos
-Núcleso problemático lectura a la comunidad "aquí no cantan.."
-
-jorge
-formación de formadores es la carencia más latente 
-
-fer 
-mas que imponer un equipo es darle herramientas a los que ya lo estan haciendo
-retorno social : lo que esto genera en las comunidades, beneficiario directo el alumno, beneficiario indirecto la comunidad
-Informe cuantitativo cifras
-informe cualitativo 
-
-
-tita: en el contrato teníamos un gestor con la comunidad, se cambió ese gestor por gestión de cada uno de los profesores que están llendo a los nodos
-Jorge: se debe recoger esa información social y darle forma, con las problemáticas puntuales en cada nodo darle curso a programas de la alcaldía, un psicosocial puede tener conocimientos desde la técnica, de pronto la alcaldía puede cubrir ese aspecto con sus programas. exec identificar y usar los programas de la alacaldía
-tita: se presentan líderes naturales, en cada institución hay alguien lider que no siempre es el director
-Jorge: con los nodos se puede trabajar con la coresponsabilidad social
-Jorge: se puede hacer comparativo con la base de datos de la Red, exec nos puede pasar la base de datos de la red, exec investigar !!!!! sistema unico beneficiario de la alcaldía
-
-Tita: estamos buscando hacer cosas diferentes a la red
-Nuestra pedagogía muy fuerte en el ¿orff y en darcoff?  desde los bebes hay desarollo rítmico, armónico, melódico, y estructura
-En la red hay buena formación melódica, pero menos formación armónica
-los problemas rítmicos se solucionan con el cuerpo desde chiquitos
-
-Nuestro curso de electrónica se canta TODO el tiempo!!!!!!  se canta TODO el tiempo se hace con la boca los beat!!!!!!!
-CORO!
-
-
-GARABATEOOOOOO!!!!!!!!
-
-De un solo tono
-de dos tonos
-
-
-Dos formatos de libros
-1. para grandes
-   Cancionero popular colombiano
-   Andino
-   Raices
-   Mundo (lo que nos ha influenciado)
-   Percusión Cortes
-   Eugene Uman
-   
-2 para iniciación
-   A CANTAR! ritmico-armónico
-   A JUGAR ! juegos de cuerpo ritmico-corporal
-   CORO
-   ENSAMBLE muchos poquitos forman uno grande
-   Electrónica
-   Filosófico
-3. métodos
-Pre-lectura
-Lectura
-Rítmico
-Instrumento
-   Teclas
-   secuencias
-   generación
-
-Tarjetas rítmicas:
-ABSTRACCION!!
-
-Acercase a la grafia sin ir leyendo .. tocan .. y ven como se escribe..
-
-
-juego exec !  ordenar los tonos :)
-
-
-Libros: pajaros del monte   
-if fills ? 
-
-
-Jorge la red tiene 15 años
-
-ojo los muchachos no se pueden mover solos, transporte.. complejo
-tita: tres cosas van a funcionar en alianza con la red: el jazz, formación formadores (cursos de tres meses, 60 horas), clases de percusión (canecas para alumnos y profesores), las tres uniones son abiertas a otras comunidades.
-jorge: a veces se inscriben a los cursos, pero a veces las problemáticas de las comunidades hacen la salida complejo
-
-
-
-horarios niños
-
-correo personal
-
-en belen niños necesitamos instrumentos (la maleta)
-
-
-tener los horarios de todos!
-
-
-reu lunes 14 
-intrumentos 
-4 sets (general, cuerdas, tradicional, electrónica, callejero )
-marcada y forma de entrega
-exec que pedro y dani manden presupuesto instrumento minimo e caja de herramientas, listado 
-talleres de formación de formadores exec averiguar agenda y hacer cronograma
-en firme instritos de cada institución
-contrato USM  lista del mercado de lo que nos enrtregan sobre todo formadores  y alianza con casa morada y consejo de música
-Tener muy claro los horarios de trabajo
-
- recibimos a todo el que llegue
- los horarios se van a asignar segun lo que esta pasando
-tengo que poder cambiar el chip y tener lectura de lo que va llegando segun la comunidad
-
-
-Contratación
-Daniel crow
-USM
-falta gente?
-
-exec sumar nodo de la red
-exec buscar montaje de ensambles con la red
-
-in los colores hay DJ 
-
-ya no hay tardes y mañana, 
-12 horas trabajo comunidad
-4 horas ensayo
-4 reuniones
-
-función operativa
-función comunidad
-función ensamble
-
-
-visitaron colegio Gente Unida
-visitaron colegio Lara Bonilla
-laura de la UVA de los sueños ensamble
- a cargo de comunicación y logística :: Pedregal Ana María Arias
-
-sacar cabezas por nodo, con directores asistentes 
-Laura Marcela Ana, Magali tienen los nodos
-
-Fijos: 
-lunes por la mañana todos
-ensayo 
-
-Ensayos jueves por la mañana
-horario particular
-
-lunes reunión en la mañana reunión todos
-
-
-
-fer:
-llegar tocando alborada
-carteleras
-volantes
-afiche
-persona clave y relación estrecha
-
-
-comite comunicaciones
-
-mapeo con la USM
-certificar
-eliana 
-carolina ultimate 
-sara melguizo
-
-no es pr[actico tener taller hibernar
-proveer fechas, clips de video, reseña, un motivante después de 5pm, 
-hicieron lasofónica
-produccion ejecutiva montaje en vico comunicaciones direccion artistica, en cada parte habua líder.
-es fundamental como vendo el taller
-dificultad en el lenguaje, vender cada conferencia, 
-este año formando formadores, vienen los lider,  la segunda parte ya es con el lider, el lenguaje ya es diferente, es desde el contenido, BBiografía del conferencista!  video de legitimadores
-buscar vacaiones de los profes, capacitarlos en vacaciones!!}
-
-ambas estrategias, talleres sueltos y ciclos
-cafe con un músico con el target!
-talleres con personas activas y pasivas
-un mes previo 
-
-aprender de los modelos de los grupos sociales!  
-
-sistematizado su modelo ? significa que no lo estan haciendo bien? noo
-ayudarles a sistematizar sus modelos? es necesario?  quizá valorar un modelo que no esta sistematizado!  hay 44 procesos en la ciudad?
-
-estrategia de cafes paralelos a encuestas 
-
-un objeto de pedagogía  el cancionero
-mañana recibir el insumo de talleres 
-
-
-201407070924
-Encuentro con lo desconocido.
-Darle doble vía con todo lo que esta pasando 
-todo lo que prparo puede cambiar
-hacer parte fundamental de o que nosotros queremos construir
-bienvenida a Francisco Muños (pacho) flautista UdeA, formado en mpusica clásica, alumno jose tobón
-toca guitarra, piano, gaita.
-Alex Percusionista música tradicional fabrica instruentos, inició grupo de gaitas.
-
+************************
+Notas sin fecha
+************************
+### Definiciones o valores, que usaremos en Casas de Música
+* Aprender haciendo y aprender creando. Diferenciar los cómo y los qué.
+* La creación como derecho fundamental.
+* Cambiar nombre de Laboratorio a "Casa de experimentos"
+* Es formación desde la música .. no es formación para la música.
+* Las mismas herramientas aprendidas para la música aplicadas a la vida
+* Apreciamos la crítica negativa y buscamos maneras de debatir e integrar lo que surge de ella
+* Consideramos que la critica negativa nos ayuda a fortalecer nuestra  ruta, es un bien preciado
+* Con Casas de la Música  la ciudad atiende prácticas de música popular.
+* Pongámonos a hacer música no hablemos tanta $%&&#
 
 
 Mile:
 def horarios asignación horarios.
 
 def comiteAcademico claudia, mauricio, jose, federico, tita, daniel, fer franco
-def trabajoAcademicoApoyoAlPrograma 
-  jose, leo, alex 
+def trabajoAcademicoApoyoAlPrograma
+  jose, leo, alex
   Leo
   construcción de material: claudia, conny
 
@@ -888,30 +710,30 @@ def apoyoAreaOperativa Mile y maga, john, laura
 def comunicaciones eli; AnaMaría, marcela, magaly
 def programación brolin fede, johnny, esteban.+
 
-def gruposDeMusicasDeEnsambles 
+def gruposDeMusicasDeEnsambles
   Daniel, Nico, mauricio, alejo, ajuao
-  tradicional jose guapo 
-  felipe daniel esteban pedro 
+  tradicional jose guapo
+  felipe daniel esteban pedro
 
-distribución de horas 24 y agenda 
+distribución de horas 24 y agenda
 
 Reuniones último lunes de cada mes
 
-exec! correo de mis horas 
+exec! correo de mis horas
 
 def Funciones
  comunicarse
  presentar informes
 
-john: se vive en un sistema de hostilidad, personas que no saben que es un abrazo, tu a tu, 
+john: se vive en un sistema de hostilidad, personas que no saben que es un abrazo, tu a tu,
 
 horarios:
 
-Apertura oficial la semana 14 
+Apertura oficial la semana 14
 
 def Los niños son los que transforman las familias, ejemplo La Red, los papas empezaron a estuchar otras música, y motivarse por esas prácticas musicales-
 def documentar rápido para encontrar los correctivos, además de la planilla tener un seguimiento emotivo.
-un informe cualitativo, descipción de la población, de lo bueno de lo malo, 
+un informe cualitativo, descipción de la población, de lo bueno de lo malo,
 exec! informe semanal cualitativo me lo pasan a mi, formato de autoevaluación.
 
 def investigadores debemos ser investigadores
@@ -919,7 +741,7 @@ Beatriz
 Manejamos recursos públicos
 Contratos claros obligaciones deberes y derechos
 reportarle a milena inasistencia copia director, marce, fer,
-Correo Beatriz  
+Correo Beatriz
 si esta de vacaciones no puede trabajar
 se llama a avisar si va tarde
 reportarse ante el encargado y que firme
@@ -931,7 +753,7 @@ Correo a milena
 Nombre Completo
 Número de cédula
 RH
-Teléfono 
+Teléfono
 Teléfono de contacto
 Teléfono Fijo
 
@@ -947,17 +769,17 @@ Manual de procesos
 
 
 # Cantoalegre
-convenio asociativo 20% del proyecto  
+convenio asociativo 20% del proyecto
 ## Relacion Hard Rock taller
 
 Nora, Marisol.
 
-se van a volver institución educativa certificada 
+se van a volver institución educativa certificada
 8mil niños de matrícula pública en laureles
 
 Fer. política de ciudad, aprertura a músicas populares, aprender haciendo, aprender creando, un ciudadano pueda formarse en valores y tener espacios donde el individuo se pueda expresar creativamente.
 Desarrollo social.
-Formatos!! diferentes al formato sinfónico, 
+Formatos!! diferentes al formato sinfónico,
 Buscar la complementariedad
 
 UVAS: llenar contenidos, agrupar contenidos, compartir agenda, las UVAS las adjudican, ej fundación EPM, Comfama, Comfenalco.
@@ -967,13 +789,13 @@ Casas también se adjudicarían
 Conocer el proyecto y unirnos al proyecto
 Elemento diferenciador trabajo muy técnico musical
 podrían ser candidatos a articularse al proyecto
-apuntamos a la parte creativa, personas integrales, programas de investigación, 
+apuntamos a la parte creativa, personas integrales, programas de investigación,
 5 admin
 14 docentes
 alumnos 150
 edad juvenil
 covertura laureles
-iniciacion, buscan reforzar, 
+iniciacion, buscan reforzar,
 con la certificación tratan de profesionalizar
 buscan certificar.
 
@@ -989,7 +811,7 @@ formador de formadores, formación pedagógica.
 - acceso a plataformas básicas de software
 - compartir comunicaciones
 
-## Relación USM 
+## Relación USM
 
 
 
@@ -999,7 +821,7 @@ Folosofía :: preocuparse pero por el consumo!! consumir menos
 esta tarea que nos puso la vida es única y nos la vamos a jugar
 
 
-Necesitamos comunicar esos otro elementos, 
+Necesitamos comunicar esos otro elementos,
 
 
 ue el producto que uno hace le llegue al indicado
@@ -1023,7 +845,7 @@ Nombre Funky
 los formadores se debe comprometer a circular el conocimiento
 
 
-El objetivo es terminar en una metodología 
+El objetivo es terminar en una metodología
 
 - Desarrollo de concepto
 - escoger el repertorio o crearlo (idea)
@@ -1049,7 +871,7 @@ Staff Picks
 
 
 
-# Filosofia 
+# Filosofia
 def ?que tipo de montaje podemos tener vivo con los profesores.? ensambles de formacion clases en vivo
 def ?casa de música urbana
 global ?la música hip hop tiene más que ver con procesos políticos como hacemos? urbana
@@ -1057,8 +879,8 @@ global lideres defienden su particularidad, fer caimaniza
 global punto en común pueden ser las herramientas pedagógicas
 global  hay casa de m[usica electrónica +  casa de experimentación, Opcion formación en música no requerimiento
 global ensamble de formato, ensamble interdiciplinar, gran ensamble
-global director referente, coordinar, eficiente, como dirije el equipo, como se dan clases a niños 
-global cuadro de funciones y procesos:  
+global director referente, coordinar, eficiente, como dirije el equipo, como se dan clases a niños
+global cuadro de funciones y procesos:
 if secuenciador analogo parecido al orff
 def ¿que es una filosofía que se convierte en peagogía y luego en classes
 se sumo la pregunta ¿Cual es el rol de profesor? posición circular no dirije el profesor.
@@ -1069,7 +891,7 @@ director invitado una vez al año
 loso movimientos circulares son mas naturales que los lineales
 
 
-# Pedagogia 
+# Pedagogia
 def al niño, mantenerlo en su mundo no ponerlo a elegir!! él conserva su mundo interior.  esta todo encaminado para que se parezca a el mismo.
 no es quieres ir a mercar .. sino vamos al mercado..
 no compararlo con otros niños
@@ -1080,15 +902,15 @@ ud no es parte de una masa .. es un individo.
  def los instrumentos son todos .. hay que ensamblar .. educación tipo laboratorio.. complementado con proceso de formación.
  exec !!!!!! diseñar repertorios que nos permitan llegar a las escuelas y ponerlas en practica (ensamble) volverse un curriculo
 /pedag in Curriculo estático - escuela de música
-try hacer, síntesis gráfica(la que sea), garabateo, 
+try hacer, síntesis gráfica(la que sea), garabateo,
 if cambiamos metrónomo por techno
 exec Contruir o desde el experimento lo que puede ser herramientas pedagógicas
-ciclo! => 
+ciclo! =>
 ciclo! => desplazados de donde vienen que traen como afectan la m[usica en med .. data-> visualizaci[on
 if tres niveles de projectos
 
 global lo que nos tiene que marcar en las escuelsa es la experiencia, la vivencia, la conexión!!! primero vivelo, experimentalo, y luego vas a aprendiendo
-global recobrar las maneras en que se aprende la música callejera, campesina e traerlo en integrarlo 
+global recobrar las maneras en que se aprende la música callejera, campesina e traerlo en integrarlo
 import minima unidad que lleva el profesor para explicar sus conceptos
 if educar urbano en flashmob entregar fanzine educativo
 if usamos las canecas de tableros?
@@ -1134,4 +956,4 @@ exec taller de literatura
 # Sostenibilidad
 ¿las casas se sostienen independientemente? un sistema central
 
-# POOL 
+# POOL
