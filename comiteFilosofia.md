@@ -195,12 +195,12 @@ Formadores:
 2nivel : lacide romero, ferFranco, Raul
 - movimiento coral en las escuelas para jornada complementaria
 - Buscamos timpos de profesores hibridos, como tomas, para inicicación y electrónica
-#formación
+-formación
 posible ciclo formación de producción
   Producción ejecutiva
   Producción Técnica
   Producción Artística
-# creativo
+- creativo
 con lo que hay .. como hacemos un repertorio
 con los chicos siempre repertorio
 repertorio para clase
@@ -208,14 +208,14 @@ repertorio para escuela
 repertorio para MVLM
 
 
-#ORF '''''''''
+-ORF '''''''''
 concebir el cuerpo con 4 alturas
 soprano dedos
 contraltos  palmas
 tenores muslos
 bajos pies
 
-#Valores
+-Valores
 Respesto
 Prudencia
 Flexibilidad
@@ -246,9 +246,9 @@ Proactivo
 - comunicar desarrollo humando por medio de la mùsica
 - Para que estoy tocando instrumento?   el instrumento es el vehiculo para acercarme al entorno
 
-#Areas
+-Areas
 
-###diferencias con la red
+---diferencias con la red
 Ritmico corporal
 Ritmico percutivo
 Ritmico armònico
@@ -291,7 +291,7 @@ HACER
 
 ### 19 de agosto 2014
 
-## fer
+-- fer
 Constantes y variables
 --estrucuturas
 repetición por seccion (cancion rondo, lid, )
@@ -300,12 +300,12 @@ rep por transformación temática (mismo motivo con diferente personalidad o exp
 rep por tratamiento contrapuntistica (discurso horizontal muchas líneas al tiempo)
 rep por desarrollo temático (sonata)
 
-#musica mentronómicas +  música+ cronométricas + aleatorias + probabilisticas +azaristicas
+-musica mentronómicas +  música+ cronométricas + aleatorias + probabilisticas +azaristicas
 
 temas
-- galeria #lukas hace albumes
-- Twitter ##eli
-- Diferencias red ( # pendientes de comunicacadora Red ##?)
+- galeria -lukas hace albumes
+- Twitter --eli
+- Diferencias red ( - pendientes de comunicacadora Red --?)
 -- Desarrollo de la creatividad. Aprender Creando
 -- Musicalidad
 -- Investigación
@@ -316,7 +316,7 @@ Red
 Formación (escolarizados)
 Proyección (grupos constituidos, y casas de música puede apoyar programa de altavoz, talleres específicos de formatos instrumentos, ténicas, talleres de producción sonido puestas en escena)
 Formación de formadores
-- # Datos grupos que no pasaron Altavoz ## carlos guisao
+- - Datos grupos que no pasaron Altavoz  carlos guisao
 
 
 ### 13 de agosto Notas de la clase de Josh
@@ -579,7 +579,7 @@ Asisten: Tita Maya, Luis Fernando Franco, Camilo Suarez, Daniel Crow, Federico L
 * Apreciamos la crítica negativa y buscamos maneras de debatir e integrar lo que surge de ella
 * Consideramos que la critica negativa nos ayuda a fortalecer nuestra  ruta, es un bien preciado
 * Con Casas de la Música  la ciudad atiende prácticas de música popular.
-* Pongámonos a hacer música no hablemos tanta $%&&#
+* Pongámonos a hacer música no hablemos tanta $%&&-
 
 ### Acerca de herramientas que consideramos necesarias
 - Ejecutar: Inventario de recursos y mapa funcional de la música en la ciudad.
@@ -653,7 +653,7 @@ Definir: como es el paso del aprender haciendo al aprender creando, la traducci�
 
 
 
-#libroFilosofia
+-libroFilosofia
 from podría parecerse a una constitución de un país
 raise una filosofía tiene sentido cuando rebota, el feedback
 in 10 consejos para un compositor de jinistera o algo asi
@@ -717,7 +717,7 @@ se van a hacer dos eventos grandes, nuevas poéticas,
 Agregar talleres por parte de los formadores, y analizar que estan necesitando tanto en intención como en hechos.
 USM :: que quieren los profesores??
 un deber moral con clase media en educadores de música
-Fer: inventario recursos musicales de la ciudad LABO, apuntando a directorio musical de medellín #brolin #usm
+Fer: inventario recursos musicales de la ciudad LABO, apuntando a directorio musical de medellín -brolin -usm
 aclarar los líneamientos de casas de música  para recibir las propuesta de alcaldia etc.
 
 Lucas: entrevistador, invstigo de reclutamiento de menores, aprendió a construir relaciones de confianza, lo lleva a otros temas reconstruir historias, iluminar lo que es trivial, monto un sistema de información de la violencia de la ciudad, software, mapeo georeferenciación, programas con medicina legal mujeres, comienzos delincuenciales ! , protección a testigos, trabajar con fuerza joven, programa de victimas, reconstruir estas historias, encontrarle un filon distinto a las hstorias, hicimos 100 entrevisa a jovenes de grupos violentos, proyecto con naciones unidas Habitat, montaron el inventario de arte joven y popular de medellin, parcharte mesa de trabajo de arte, escuelas de arte (tendencias()?) pasaron a morada con la idea de tener un medio,
@@ -754,18 +754,18 @@ lucas: la USM puede representar a los músicos profesionales o que quieren profe
 Tita: los serenateros, cabida a todos
 
 
-# Macro
+- Macro
 Filosofía, política pública, todas las casas, aspectos orientación
 -Gestión socialización
 - Organización
 
-# Mezo
+- Mezo
 - Define fronteras entre casas
 
-#Beneficiario
+-Beneficiario
 Comunidad
 
-# Método
+- Método
 Hago .. me sonó algo .. ¿qué hago con eso? (crear), dejo inttrucciones para que otro  haga lo que hice (documentación)
 - Valor al proceso y la experiencia vivida
 - se inicia con una forma se pega con otras para una estructura y eso genera una producción
@@ -893,7 +893,7 @@ aprender creando
 guapito quiere hacer una orquesta de baile
 realbook solo comlombiano
 
-# inventario ensamble
+- inventario ensamble
 recursos
 :coro :: coro 4 voces con capacidad de improv, leen partitura 12 personas (3 por voz)
 :percu :: 2 de sonbata, colombiano raiz, percusionista sinfónico amazon, esta montando canecas, 4 bateristas muy buenos. (esteban, alejo pinilla, mauro estrada, nico guevara)
@@ -1299,7 +1299,7 @@ Resiliencia.
 Uno como músico debería hacer un poquito de las distintas artes. Aún desde la misma música lo tenemos que plantear (canto, batería, cuerda…), no hacer esa división tajante. Ese es el inicio de los niños, un disfrute de todas estas cosas.
 
 
-# Referente
+- Referente
 
 http://www.teamlabs.es/manifiesto-masteryourself/
 
@@ -1351,7 +1351,7 @@ Manual de procesos
   toma asistencia (impresa)
 
 
-## Relacion Hard Rock taller
+-- Relacion Hard Rock taller
 Nora, Marisol.
 
 se van a volver institución educativa certificada
@@ -1382,7 +1382,7 @@ buscan certificar.
 Conectores:
 - participaciones en talleres de formador de formadores :Nosotros vamos a traer a Eugene, traaer a Josh de orff
 
-### conectores con laso
+#-- conectores con laso
 formador de formadores, formación pedagógica.
 - nventario de recursos artisticos
 - taller herramientas pedagógicas
@@ -1390,7 +1390,7 @@ formador de formadores, formación pedagógica.
 - acceso a plataformas básicas de software
 - compartir comunicaciones
 
-## Relación USM
+-- Relación USM
 Filosofía :: preocuparse pero por el consumo!! consumir menos
 esta tarea que nos puso la vida es única y nos la vamos a jugar
 Necesitamos comunicar esos otro elementos,
@@ -1428,10 +1428,10 @@ USM:
 inquietudes del gremio
 .-que pasa con infraestructura a corto y mediano plazo.. porque no se usan la infraestructura
 
-# Creación de públicos
+- Creación de públicos
 Staff Picks
 
-# Filosofia
+- Filosofia
 Definir: ?que tipo de montaje podemos tener vivo con los profesores.? ensambles de formacion clases en vivo
 Definir: ?casa de música urbana
 global ?la música hip hop tiene más que ver con procesos políticos como hacemos? urbana
@@ -1451,7 +1451,7 @@ director invitado una vez al año
 loso movimientos circulares son mas naturales que los lineales
 
 
-# Pedagogia
+- Pedagogia
 Definir: al niño, mantenerlo en su mundo no ponerlo a elegir!! él conserva su mundo interior.  esta todo encaminado para que se parezca a el mismo.
 no es quieres ir a mercar .. sino vamos al mercado..
 no compararlo con otros niños
@@ -1484,7 +1484,7 @@ Tomados de La conversación de noam chomski con ...
   Descartes te da las herramientas para dudar
   Estudiantes y profesores deben ser enseñados a cuestionar y retar
 
-# Operatividad
+- Operatividad
 /op global ajustar roles para ser eficientes : no titrar a josetobon a dar flauta 1
 /op if la usm nos ayuda a identificar ensambles nacientes para que jose tobón aporte
 /filosofia La Red no pueden estar de itaguí .. sacan a los grandes
@@ -1497,26 +1497,26 @@ if usamos las canecas de hard case para tambora?
 if cada mes nos reunimos a ver alguna de las dsiciplinas en que van .. vivencial, hubo una realidad sonora
 Hacer: cada uno escoge una sede temporal para experimntar lo que sería su casa-
 
-# Conectores
+- Conectores
 /conect Hacer: averiguar laso que fueron a la conferecia de electrönica.
 Hacer: la bola .. y pajaro de monte las propones claudia para aprender
 
 
-# Comunicacion
+- Comunicacion
 try en ensamble medellin vive la música + semilleros gran gente!
 Definir: compartir lo mismo con presentacion diferente
 Definir: estrategia comunicacion talleres
 ecard jpg
 integrar la inscripción por facebook
 
-# Desarrollos
+- Desarrollos
 Hacer: como replicar en masa el secuenciador?
 Hacer: taller de literatura
 
-# Sostenibilidad
+- Sostenibilidad
 ¿las casas se sostienen independientemente? un sistema central
 
-# POOL
+- POOL
 
 
 enabling collaboration, the development of a
